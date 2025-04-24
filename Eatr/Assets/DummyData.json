@@ -1,0 +1,7002 @@
+[
+	{
+		"name": "Green Corner",
+		"address": "Jl. Sentosa Indah No. 29",
+		"price": "$",
+		"distance": 0.6,
+		"rating": 0.5,
+		"images": [
+			"image_7",
+			"image_12",
+			"image_11",
+			"image_4"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Silent Dock",
+		"address": "Jl. Langit Sejuk No. 9",
+		"price": "$",
+		"distance": 0.5,
+		"rating": 4.6,
+		"images": [
+			"image_6",
+			"image_5",
+			"image_4",
+			"image_18"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Golden Palace",
+		"address": "Jl. Jaya Bayu No. 15",
+		"price": "$",
+		"distance": 0.6,
+		"rating": 1.0,
+		"images": [
+			"image_20",
+			"image_2",
+			"image_1",
+			"image_15"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Savory Dock",
+		"address": "Jl. Makmur Lembut No. 10",
+		"price": "$",
+		"distance": 0.7,
+		"rating": 1.1,
+		"images": [
+			"image_3",
+			"image_15",
+			"image_13",
+			"image_19"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Silent Dock",
+		"address": "Jl. Bening Tenang No. 5",
+		"price": "$",
+		"distance": 0.3,
+		"rating": 2.6,
+		"images": [
+			"image_11",
+			"image_5",
+			"image_17",
+			"image_19"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Shadow Spot",
+		"address": "Jl. Sawah Ombak No. 19",
+		"price": "$$",
+		"distance": 0.9,
+		"rating": 3.5,
+		"images": [
+			"image_13",
+			"image_1",
+			"image_6",
+			"image_20"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Sunset Eatery",
+		"address": "Jl. Bersih Warna No. 27",
+		"price": "$$",
+		"distance": 0.6,
+		"rating": 3.8,
+		"images": [
+			"image_19",
+			"image_2",
+			"image_15",
+			"image_12"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Fire House",
+		"address": "Jl. Bersih Pelangi No. 2",
+		"price": "$$",
+		"distance": 0.7,
+		"rating": 4.7,
+		"images": [
+			"image_11",
+			"image_20",
+			"image_12",
+			"image_13"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Jungle Deck",
+		"address": "Jl. Sentosa Hijau No. 12",
+		"price": "$$",
+		"distance": 0.2,
+		"rating": 4.0,
+		"images": [
+			"image_8",
+			"image_16",
+			"image_4",
+			"image_18"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Cozy Dock",
+		"address": "Jl. Sinar Gunung No. 30",
+		"price": "$$",
+		"distance": 0.6,
+		"rating": 2.4,
+		"images": [
+			"image_11",
+			"image_13",
+			"image_20",
+			"image_19"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Savory Table",
+		"address": "Jl. Terang Damai No. 20",
+		"price": "$$$",
+		"distance": 0.5,
+		"rating": 3.6,
+		"images": [
+			"image_4",
+			"image_11",
+			"image_9",
+			"image_12"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Shadow Grill",
+		"address": "Jl. Putih Syukur No. 23",
+		"price": "$$$",
+		"distance": 0.9,
+		"rating": 1.4,
+		"images": [
+			"image_3",
+			"image_8",
+			"image_2",
+			"image_17"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Wild Kitchen",
+		"address": "Jl. Syukur Sawah No. 29",
+		"price": "$$$",
+		"distance": 0.8,
+		"rating": 1.9,
+		"images": [
+			"image_6",
+			"image_1",
+			"image_12",
+			"image_8"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Urban Dining",
+		"address": "Jl. Indah Damai No. 17",
+		"price": "$$$",
+		"distance": 0.8,
+		"rating": 4.4,
+		"images": [
+			"image_13",
+			"image_17",
+			"image_1",
+			"image_6"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Tropical Den",
+		"address": "Jl. Ombak Bayu No. 25",
+		"price": "$$$",
+		"distance": 0.3,
+		"rating": 2.5,
+		"images": [
+			"image_11",
+			"image_9",
+			"image_15",
+			"image_2"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Wild Pit",
+		"address": "Jl. Lembut Terang No. 7",
+		"price": "$$$$",
+		"distance": 0.9,
+		"rating": 1.4,
+		"images": [
+			"image_17",
+			"image_16",
+			"image_13",
+			"image_10"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Silent Joint",
+		"address": "Jl. Bersih Jaya No. 10",
+		"price": "$$$$",
+		"distance": 0.6,
+		"rating": 0.2,
+		"images": [
+			"image_5",
+			"image_9",
+			"image_4",
+			"image_10"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Urban Den",
+		"address": "Jl. Sentosa Sinar No. 13",
+		"price": "$$$$",
+		"distance": 1.0,
+		"rating": 1.5,
+		"images": [
+			"image_12",
+			"image_18",
+			"image_9",
+			"image_2"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Amber Table",
+		"address": "Jl. Sinar Pelangi No. 10",
+		"price": "$$$$",
+		"distance": 0.3,
+		"rating": 2.9,
+		"images": [
+			"image_9",
+			"image_17",
+			"image_1",
+			"image_15"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Velvet Terrace",
+		"address": "Jl. Sinar Terang No. 7",
+		"price": "$$$$",
+		"distance": 0.5,
+		"rating": 4.0,
+		"images": [
+			"image_20",
+			"image_17",
+			"image_16",
+			"image_8"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Tropical Corner",
+		"address": "Jl. Sinar Sentosa No. 28",
+		"price": "$",
+		"distance": 1.9,
+		"rating": 1.1,
+		"images": [
+			"image_17",
+			"image_8",
+			"image_18",
+			"image_9"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Cozy Dock",
+		"address": "Jl. Warna Bayu No. 15",
+		"price": "$",
+		"distance": 1.9,
+		"rating": 1.5,
+		"images": [
+			"image_2",
+			"image_11",
+			"image_20",
+			"image_6"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Urban Eatery",
+		"address": "Jl. Lembut Bening No. 3",
+		"price": "$",
+		"distance": 1.8,
+		"rating": 4.6,
+		"images": [
+			"image_4",
+			"image_1",
+			"image_3",
+			"image_13"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Chili Hut",
+		"address": "Jl. Hijau Langit No. 15",
+		"price": "$",
+		"distance": 1.4,
+		"rating": 0.9,
+		"images": [
+			"image_3",
+			"image_18",
+			"image_16",
+			"image_15"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Ocean Spot",
+		"address": "Jl. Indah Sejuk No. 8",
+		"price": "$",
+		"distance": 1.5,
+		"rating": 0.7,
+		"images": [
+			"image_6",
+			"image_4",
+			"image_9",
+			"image_5"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Ocean Bistro",
+		"address": "Jl. Pelangi Bayu No. 15",
+		"price": "$$",
+		"distance": 1.3,
+		"rating": 4.0,
+		"images": [
+			"image_19",
+			"image_11",
+			"image_10",
+			"image_13"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Amber Dining",
+		"address": "Jl. Tenang Langit No. 24",
+		"price": "$$",
+		"distance": 1.5,
+		"rating": 4.6,
+		"images": [
+			"image_8",
+			"image_12",
+			"image_9",
+			"image_1"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Fire Joint",
+		"address": "Jl. Sinar Indah No. 11",
+		"price": "$$",
+		"distance": 1.5,
+		"rating": 2.7,
+		"images": [
+			"image_10",
+			"image_19",
+			"image_11",
+			"image_20"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Jungle Hut",
+		"address": "Jl. Jaya Sawah No. 6",
+		"price": "$$",
+		"distance": 1.1,
+		"rating": 3.0,
+		"images": [
+			"image_4",
+			"image_20",
+			"image_17",
+			"image_9"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Ocean Deck",
+		"address": "Jl. Jaya Terang No. 11",
+		"price": "$$",
+		"distance": 1.8,
+		"rating": 4.7,
+		"images": [
+			"image_15",
+			"image_8",
+			"image_19",
+			"image_11"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Shadow Terrace",
+		"address": "Jl. Warna Lembut No. 30",
+		"price": "$$$",
+		"distance": 1.6,
+		"rating": 4.1,
+		"images": [
+			"image_15",
+			"image_5",
+			"image_12",
+			"image_9"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Hidden Palace",
+		"address": "Jl. Jaya Lembut No. 14",
+		"price": "$$$",
+		"distance": 2.0,
+		"rating": 4.1,
+		"images": [
+			"image_1",
+			"image_18",
+			"image_2",
+			"image_3"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Chili Bistro",
+		"address": "Jl. Lembut Laut No. 5",
+		"price": "$$$",
+		"distance": 1.5,
+		"rating": 3.0,
+		"images": [
+			"image_4",
+			"image_10",
+			"image_6",
+			"image_16"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Shadow Kitchen",
+		"address": "Jl. Indah Sentosa No. 27",
+		"price": "$$$",
+		"distance": 1.7,
+		"rating": 3.2,
+		"images": [
+			"image_19",
+			"image_15",
+			"image_4",
+			"image_1"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Lotus Palace",
+		"address": "Jl. Jaya Cemerlang No. 21",
+		"price": "$$$",
+		"distance": 1.6,
+		"rating": 3.2,
+		"images": [
+			"image_19",
+			"image_20",
+			"image_1",
+			"image_13"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Bloom Eatery",
+		"address": "Jl. Cemerlang Gunung No. 22",
+		"price": "$$$$",
+		"distance": 1.9,
+		"rating": 4.5,
+		"images": [
+			"image_18",
+			"image_1",
+			"image_11",
+			"image_3"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Crystal Eatery",
+		"address": "Jl. Hijau Ombak No. 12",
+		"price": "$$$$",
+		"distance": 1.2,
+		"rating": 3.8,
+		"images": [
+			"image_10",
+			"image_11",
+			"image_16",
+			"image_12"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Paradise Lounge",
+		"address": "Jl. Jaya Langit No. 30",
+		"price": "$$$$",
+		"distance": 1.9,
+		"rating": 3.4,
+		"images": [
+			"image_7",
+			"image_4",
+			"image_10",
+			"image_19"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Bright Palace",
+		"address": "Jl. Gunung Gunung No. 13",
+		"price": "$$$$",
+		"distance": 1.4,
+		"rating": 3.4,
+		"images": [
+			"image_6",
+			"image_12",
+			"image_3",
+			"image_16"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Crystal Palace",
+		"address": "Jl. Bayu Ombak No. 10",
+		"price": "$$$$",
+		"distance": 1.4,
+		"rating": 1.5,
+		"images": [
+			"image_20",
+			"image_19",
+			"image_9",
+			"image_13"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Tropical Dining",
+		"address": "Jl. Lembut Terang No. 8",
+		"price": "$",
+		"distance": 2.8,
+		"rating": 3.1,
+		"images": [
+			"image_5",
+			"image_3",
+			"image_19",
+			"image_9"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Velvet Grill",
+		"address": "Jl. Terang Ombak No. 25",
+		"price": "$",
+		"distance": 2.8,
+		"rating": 1.7,
+		"images": [
+			"image_19",
+			"image_12",
+			"image_10",
+			"image_1"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Jungle Eatery",
+		"address": "Jl. Putih Sentosa No. 5",
+		"price": "$",
+		"distance": 2.4,
+		"rating": 1.2,
+		"images": [
+			"image_19",
+			"image_12",
+			"image_16",
+			"image_7"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Sunset Table",
+		"address": "Jl. Syukur Hijau No. 27",
+		"price": "$",
+		"distance": 2.7,
+		"rating": 0.8,
+		"images": [
+			"image_4",
+			"image_16",
+			"image_11",
+			"image_15"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Wild Dining",
+		"address": "Jl. Terang Sentosa No. 25",
+		"price": "$",
+		"distance": 2.4,
+		"rating": 1.9,
+		"images": [
+			"image_13",
+			"image_5",
+			"image_19",
+			"image_20"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Paradise Lounge",
+		"address": "Jl. Ombak Bening No. 5",
+		"price": "$$",
+		"distance": 2.9,
+		"rating": 4.2,
+		"images": [
+			"image_1",
+			"image_19",
+			"image_10",
+			"image_9"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Savory Dining",
+		"address": "Jl. Lembut Putih No. 23",
+		"price": "$$",
+		"distance": 2.3,
+		"rating": 2.2,
+		"images": [
+			"image_8",
+			"image_10",
+			"image_15",
+			"image_5"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Rustic Cafe",
+		"address": "Jl. Hijau Bening No. 4",
+		"price": "$$",
+		"distance": 2.2,
+		"rating": 1.7,
+		"images": [
+			"image_14",
+			"image_12",
+			"image_9",
+			"image_1"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Crystal Spot",
+		"address": "Jl. Bambu Bayu No. 17",
+		"price": "$$",
+		"distance": 2.2,
+		"rating": 3.3,
+		"images": [
+			"image_4",
+			"image_14",
+			"image_12",
+			"image_17"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Fire Bar",
+		"address": "Jl. Makmur Hijau No. 12",
+		"price": "$$",
+		"distance": 2.3,
+		"rating": 2.6,
+		"images": [
+			"image_14",
+			"image_4",
+			"image_19",
+			"image_5"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Jungle Joint",
+		"address": "Jl. Sinar Bambu No. 11",
+		"price": "$$$",
+		"distance": 2.9,
+		"rating": 2.1,
+		"images": [
+			"image_3",
+			"image_17",
+			"image_1",
+			"image_9"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Lazy Spot",
+		"address": "Jl. Bening Langit No. 18",
+		"price": "$$$",
+		"distance": 2.5,
+		"rating": 1.6,
+		"images": [
+			"image_6",
+			"image_10",
+			"image_7",
+			"image_18"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Royal Den",
+		"address": "Jl. Ombak Warna No. 11",
+		"price": "$$$",
+		"distance": 2.6,
+		"rating": 4.3,
+		"images": [
+			"image_4",
+			"image_11",
+			"image_9",
+			"image_12"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Wild Bistro",
+		"address": "Jl. Putih Jaya No. 23",
+		"price": "$$$",
+		"distance": 2.1,
+		"rating": 4.6,
+		"images": [
+			"image_19",
+			"image_2",
+			"image_6",
+			"image_15"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Urban Bar",
+		"address": "Jl. Bersih Sinar No. 5",
+		"price": "$$$",
+		"distance": 2.5,
+		"rating": 0.4,
+		"images": [
+			"image_11",
+			"image_14",
+			"image_13",
+			"image_20"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Bloom Pit",
+		"address": "Jl. Gunung Makmur No. 5",
+		"price": "$$$$",
+		"distance": 2.2,
+		"rating": 3.4,
+		"images": [
+			"image_18",
+			"image_20",
+			"image_15",
+			"image_9"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Bloom Hut",
+		"address": "Jl. Sawah Makmur No. 18",
+		"price": "$$$$",
+		"distance": 2.4,
+		"rating": 0.5,
+		"images": [
+			"image_13",
+			"image_18",
+			"image_19",
+			"image_9"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Spicy Bar",
+		"address": "Jl. Warna Sentosa No. 17",
+		"price": "$$$$",
+		"distance": 2.1,
+		"rating": 1.8,
+		"images": [
+			"image_18",
+			"image_17",
+			"image_6",
+			"image_4"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Cozy Bistro",
+		"address": "Jl. Langit Bayu No. 5",
+		"price": "$$$$",
+		"distance": 2.9,
+		"rating": 2.2,
+		"images": [
+			"image_20",
+			"image_19",
+			"image_14",
+			"image_15"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Lazy House",
+		"address": "Jl. Bening Gunung No. 19",
+		"price": "$$$$",
+		"distance": 2.5,
+		"rating": 3.1,
+		"images": [
+			"image_8",
+			"image_14",
+			"image_2",
+			"image_13"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Lotus Corner",
+		"address": "Jl. Sentosa Laut No. 29",
+		"price": "$",
+		"distance": 3.7,
+		"rating": 2.7,
+		"images": [
+			"image_3",
+			"image_9",
+			"image_8",
+			"image_16"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Savory Grill",
+		"address": "Jl. Cemerlang Putih No. 4",
+		"price": "$",
+		"distance": 3.5,
+		"rating": 0.4,
+		"images": [
+			"image_20",
+			"image_9",
+			"image_13",
+			"image_15"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Wild Cafe",
+		"address": "Jl. Bening Terang No. 16",
+		"price": "$",
+		"distance": 3.3,
+		"rating": 2.9,
+		"images": [
+			"image_1",
+			"image_10",
+			"image_15",
+			"image_9"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Green House",
+		"address": "Jl. Indah Sawah No. 9",
+		"price": "$",
+		"distance": 3.7,
+		"rating": 1.4,
+		"images": [
+			"image_8",
+			"image_16",
+			"image_1",
+			"image_13"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Golden Spot",
+		"address": "Jl. Gunung Gunung No. 19",
+		"price": "$",
+		"distance": 3.2,
+		"rating": 1.7,
+		"images": [
+			"image_1",
+			"image_15",
+			"image_17",
+			"image_5"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Hidden Grill",
+		"address": "Jl. Mentari Terang No. 17",
+		"price": "$$",
+		"distance": 3.8,
+		"rating": 4.1,
+		"images": [
+			"image_13",
+			"image_19",
+			"image_2",
+			"image_12"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Crystal Corner",
+		"address": "Jl. Indah Sentosa No. 20",
+		"price": "$$",
+		"distance": 3.6,
+		"rating": 1.7,
+		"images": [
+			"image_4",
+			"image_5",
+			"image_3",
+			"image_1"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Golden Dock",
+		"address": "Jl. Makmur Jaya No. 30",
+		"price": "$$",
+		"distance": 3.2,
+		"rating": 4.5,
+		"images": [
+			"image_1",
+			"image_8",
+			"image_19",
+			"image_15"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Ocean Bistro",
+		"address": "Jl. Pelangi Warna No. 20",
+		"price": "$$",
+		"distance": 3.3,
+		"rating": 3.0,
+		"images": [
+			"image_18",
+			"image_3",
+			"image_20",
+			"image_15"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Savory Spot",
+		"address": "Jl. Sejuk Bambu No. 16",
+		"price": "$$",
+		"distance": 3.3,
+		"rating": 0.3,
+		"images": [
+			"image_1",
+			"image_13",
+			"image_4",
+			"image_18"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Savory Bar",
+		"address": "Jl. Ombak Tenang No. 6",
+		"price": "$$$",
+		"distance": 3.5,
+		"rating": 4.6,
+		"images": [
+			"image_9",
+			"image_19",
+			"image_13",
+			"image_15"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Velvet Spot",
+		"address": "Jl. Sinar Sinar No. 13",
+		"price": "$$$",
+		"distance": 3.3,
+		"rating": 1.5,
+		"images": [
+			"image_12",
+			"image_20",
+			"image_15",
+			"image_2"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Amber Corner",
+		"address": "Jl. Syukur Cemerlang No. 30",
+		"price": "$$$",
+		"distance": 3.8,
+		"rating": 1.0,
+		"images": [
+			"image_15",
+			"image_14",
+			"image_13",
+			"image_6"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Golden Grill",
+		"address": "Jl. Sejuk Cemerlang No. 30",
+		"price": "$$$",
+		"distance": 3.5,
+		"rating": 4.9,
+		"images": [
+			"image_15",
+			"image_9",
+			"image_17",
+			"image_13"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Golden Dining",
+		"address": "Jl. Lembut Hijau No. 26",
+		"price": "$$$",
+		"distance": 3.1,
+		"rating": 5.0,
+		"images": [
+			"image_7",
+			"image_18",
+			"image_16",
+			"image_9"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Ocean Cafe",
+		"address": "Jl. Gunung Bening No. 15",
+		"price": "$$$$",
+		"distance": 3.0,
+		"rating": 4.1,
+		"images": [
+			"image_18",
+			"image_14",
+			"image_13",
+			"image_9"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Jungle Palace",
+		"address": "Jl. Sinar Damai No. 30",
+		"price": "$$$$",
+		"distance": 3.4,
+		"rating": 3.8,
+		"images": [
+			"image_12",
+			"image_20",
+			"image_15",
+			"image_10"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Hidden House",
+		"address": "Jl. Langit Makmur No. 23",
+		"price": "$$$$",
+		"distance": 3.6,
+		"rating": 0.1,
+		"images": [
+			"image_16",
+			"image_7",
+			"image_17",
+			"image_4"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Royal Hut",
+		"address": "Jl. Jaya Warna No. 23",
+		"price": "$$$$",
+		"distance": 4.0,
+		"rating": 3.0,
+		"images": [
+			"image_7",
+			"image_1",
+			"image_20",
+			"image_19"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Shadow Corner",
+		"address": "Jl. Cemerlang Jaya No. 19",
+		"price": "$$$$",
+		"distance": 3.3,
+		"rating": 0.1,
+		"images": [
+			"image_18",
+			"image_1",
+			"image_8",
+			"image_9"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Sunset Grill",
+		"address": "Jl. Damai Sentosa No. 19",
+		"price": "$",
+		"distance": 4.3,
+		"rating": 4.8,
+		"images": [
+			"image_10",
+			"image_15",
+			"image_2",
+			"image_3"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Bright Grill",
+		"address": "Jl. Sinar Jaya No. 12",
+		"price": "$",
+		"distance": 4.9,
+		"rating": 4.7,
+		"images": [
+			"image_9",
+			"image_3",
+			"image_17",
+			"image_6"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Lazy Eatery",
+		"address": "Jl. Mentari Putih No. 14",
+		"price": "$",
+		"distance": 4.2,
+		"rating": 1.2,
+		"images": [
+			"image_16",
+			"image_12",
+			"image_9",
+			"image_7"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Crystal Kitchen",
+		"address": "Jl. Sinar Pelangi No. 26",
+		"price": "$",
+		"distance": 4.8,
+		"rating": 1.4,
+		"images": [
+			"image_15",
+			"image_14",
+			"image_6",
+			"image_11"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Rustic Corner",
+		"address": "Jl. Terang Warna No. 27",
+		"price": "$",
+		"distance": 4.7,
+		"rating": 2.2,
+		"images": [
+			"image_9",
+			"image_2",
+			"image_20",
+			"image_17"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Urban Hut",
+		"address": "Jl. Ombak Laut No. 28",
+		"price": "$$",
+		"distance": 4.7,
+		"rating": 3.0,
+		"images": [
+			"image_8",
+			"image_7",
+			"image_15",
+			"image_10"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Spicy Kitchen",
+		"address": "Jl. Terang Langit No. 22",
+		"price": "$$",
+		"distance": 4.4,
+		"rating": 3.8,
+		"images": [
+			"image_18",
+			"image_9",
+			"image_15",
+			"image_4"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Lazy Dining",
+		"address": "Jl. Makmur Mentari No. 9",
+		"price": "$$",
+		"distance": 4.5,
+		"rating": 0.9,
+		"images": [
+			"image_8",
+			"image_2",
+			"image_3",
+			"image_10"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Crystal Terrace",
+		"address": "Jl. Sejuk Putih No. 30",
+		"price": "$$",
+		"distance": 4.6,
+		"rating": 0.9,
+		"images": [
+			"image_4",
+			"image_13",
+			"image_7",
+			"image_9"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Fire Palace",
+		"address": "Jl. Sinar Gunung No. 30",
+		"price": "$$",
+		"distance": 4.7,
+		"rating": 4.3,
+		"images": [
+			"image_12",
+			"image_7",
+			"image_10",
+			"image_19"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Sunset Dock",
+		"address": "Jl. Gunung Sinar No. 24",
+		"price": "$$$",
+		"distance": 5.0,
+		"rating": 1.4,
+		"images": [
+			"image_13",
+			"image_14",
+			"image_10",
+			"image_15"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Tropical Grill",
+		"address": "Jl. Damai Warna No. 11",
+		"price": "$$$",
+		"distance": 5.0,
+		"rating": 3.7,
+		"images": [
+			"image_14",
+			"image_13",
+			"image_4",
+			"image_7"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Urban Hut",
+		"address": "Jl. Jaya Cemerlang No. 29",
+		"price": "$$$",
+		"distance": 4.1,
+		"rating": 3.2,
+		"images": [
+			"image_6",
+			"image_5",
+			"image_2",
+			"image_1"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Paradise Cafe",
+		"address": "Jl. Sejuk Warna No. 21",
+		"price": "$$$",
+		"distance": 4.8,
+		"rating": 4.1,
+		"images": [
+			"image_18",
+			"image_17",
+			"image_10",
+			"image_12"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Savory Den",
+		"address": "Jl. Bayu Sawah No. 15",
+		"price": "$$$",
+		"distance": 4.8,
+		"rating": 3.3,
+		"images": [
+			"image_19",
+			"image_15",
+			"image_10",
+			"image_3"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Bright House",
+		"address": "Jl. Laut Sinar No. 24",
+		"price": "$$$$",
+		"distance": 4.7,
+		"rating": 2.4,
+		"images": [
+			"image_4",
+			"image_17",
+			"image_12",
+			"image_1"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Royal Deck",
+		"address": "Jl. Putih Sawah No. 17",
+		"price": "$$$$",
+		"distance": 4.9,
+		"rating": 2.5,
+		"images": [
+			"image_9",
+			"image_10",
+			"image_20",
+			"image_18"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Green House",
+		"address": "Jl. Bening Ombak No. 17",
+		"price": "$$$$",
+		"distance": 4.8,
+		"rating": 3.9,
+		"images": [
+			"image_20",
+			"image_15",
+			"image_6",
+			"image_17"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Tropical Bar",
+		"address": "Jl. Sawah Bambu No. 2",
+		"price": "$$$$",
+		"distance": 4.2,
+		"rating": 4.5,
+		"images": [
+			"image_2",
+			"image_19",
+			"image_6",
+			"image_17"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Golden Hut",
+		"address": "Jl. Bayu Bambu No. 5",
+		"price": "$$$$",
+		"distance": 4.2,
+		"rating": 1.8,
+		"images": [
+			"image_11",
+			"image_19",
+			"image_13",
+			"image_1"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Bloom Den",
+		"address": "Jl. Langit Ombak No. 5",
+		"price": "$",
+		"distance": 5.2,
+		"rating": 4.7,
+		"images": [
+			"image_14",
+			"image_11",
+			"image_19",
+			"image_18"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Royal Pit",
+		"address": "Jl. Warna Bayu No. 11",
+		"price": "$",
+		"distance": 5.8,
+		"rating": 3.8,
+		"images": [
+			"image_16",
+			"image_2",
+			"image_19",
+			"image_13"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Rustic Hut",
+		"address": "Jl. Bersih Hijau No. 1",
+		"price": "$",
+		"distance": 5.3,
+		"rating": 4.0,
+		"images": [
+			"image_6",
+			"image_13",
+			"image_15",
+			"image_17"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Velvet Kitchen",
+		"address": "Jl. Bersih Bayu No. 25",
+		"price": "$",
+		"distance": 5.3,
+		"rating": 4.1,
+		"images": [
+			"image_6",
+			"image_3",
+			"image_1",
+			"image_19"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Fire Joint",
+		"address": "Jl. Sejuk Makmur No. 3",
+		"price": "$",
+		"distance": 5.9,
+		"rating": 2.4,
+		"images": [
+			"image_19",
+			"image_3",
+			"image_15",
+			"image_2"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Lotus Palace",
+		"address": "Jl. Ombak Laut No. 19",
+		"price": "$$",
+		"distance": 5.6,
+		"rating": 0.5,
+		"images": [
+			"image_14",
+			"image_19",
+			"image_13",
+			"image_18"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Crystal Terrace",
+		"address": "Jl. Putih Sawah No. 14",
+		"price": "$$",
+		"distance": 5.4,
+		"rating": 2.2,
+		"images": [
+			"image_20",
+			"image_19",
+			"image_12",
+			"image_3"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Jungle House",
+		"address": "Jl. Lembut Mentari No. 23",
+		"price": "$$",
+		"distance": 5.7,
+		"rating": 3.1,
+		"images": [
+			"image_2",
+			"image_19",
+			"image_20",
+			"image_10"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Rustic Bar",
+		"address": "Jl. Bayu Tenang No. 9",
+		"price": "$$",
+		"distance": 5.1,
+		"rating": 0.6,
+		"images": [
+			"image_1",
+			"image_2",
+			"image_6",
+			"image_13"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Paradise Cafe",
+		"address": "Jl. Laut Bersih No. 9",
+		"price": "$$",
+		"distance": 5.3,
+		"rating": 1.5,
+		"images": [
+			"image_6",
+			"image_9",
+			"image_2",
+			"image_15"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Crystal Spot",
+		"address": "Jl. Hijau Sawah No. 28",
+		"price": "$$$",
+		"distance": 5.1,
+		"rating": 2.8,
+		"images": [
+			"image_10",
+			"image_8",
+			"image_4",
+			"image_5"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Wild Corner",
+		"address": "Jl. Sawah Langit No. 16",
+		"price": "$$$",
+		"distance": 5.3,
+		"rating": 1.3,
+		"images": [
+			"image_8",
+			"image_1",
+			"image_3",
+			"image_12"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Lazy Eatery",
+		"address": "Jl. Pelangi Langit No. 19",
+		"price": "$$$",
+		"distance": 5.2,
+		"rating": 0.0,
+		"images": [
+			"image_12",
+			"image_3",
+			"image_14",
+			"image_11"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Golden Grill",
+		"address": "Jl. Sentosa Damai No. 30",
+		"price": "$$$",
+		"distance": 5.6,
+		"rating": 4.8,
+		"images": [
+			"image_3",
+			"image_19",
+			"image_18",
+			"image_4"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Urban Dock",
+		"address": "Jl. Hijau Sinar No. 9",
+		"price": "$$$",
+		"distance": 5.6,
+		"rating": 4.5,
+		"images": [
+			"image_6",
+			"image_20",
+			"image_1",
+			"image_14"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Crystal Terrace",
+		"address": "Jl. Bening Putih No. 1",
+		"price": "$$$$",
+		"distance": 5.8,
+		"rating": 3.8,
+		"images": [
+			"image_6",
+			"image_9",
+			"image_13",
+			"image_16"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Crystal Corner",
+		"address": "Jl. Terang Sinar No. 20",
+		"price": "$$$$",
+		"distance": 5.8,
+		"rating": 1.8,
+		"images": [
+			"image_14",
+			"image_8",
+			"image_16",
+			"image_13"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Cozy House",
+		"address": "Jl. Bayu Warna No. 24",
+		"price": "$$$$",
+		"distance": 5.1,
+		"rating": 0.8,
+		"images": [
+			"image_4",
+			"image_16",
+			"image_9",
+			"image_17"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Savory Den",
+		"address": "Jl. Bambu Warna No. 25",
+		"price": "$$$$",
+		"distance": 5.1,
+		"rating": 4.4,
+		"images": [
+			"image_4",
+			"image_8",
+			"image_11",
+			"image_9"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Green Hut",
+		"address": "Jl. Bening Sejuk No. 2",
+		"price": "$$$$",
+		"distance": 5.5,
+		"rating": 3.1,
+		"images": [
+			"image_20",
+			"image_11",
+			"image_8",
+			"image_3"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Jungle Terrace",
+		"address": "Jl. Makmur Sinar No. 19",
+		"price": "$",
+		"distance": 6.3,
+		"rating": 3.1,
+		"images": [
+			"image_10",
+			"image_3",
+			"image_19",
+			"image_6"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Silent Cafe",
+		"address": "Jl. Tenang Putih No. 22",
+		"price": "$",
+		"distance": 6.3,
+		"rating": 5.0,
+		"images": [
+			"image_2",
+			"image_5",
+			"image_17",
+			"image_15"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Chili Grill",
+		"address": "Jl. Tenang Bening No. 1",
+		"price": "$",
+		"distance": 6.7,
+		"rating": 3.8,
+		"images": [
+			"image_1",
+			"image_15",
+			"image_9",
+			"image_19"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Golden Joint",
+		"address": "Jl. Sejuk Pelangi No. 6",
+		"price": "$",
+		"distance": 6.9,
+		"rating": 0.7,
+		"images": [
+			"image_10",
+			"image_4",
+			"image_9",
+			"image_6"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Crystal Eatery",
+		"address": "Jl. Makmur Terang No. 14",
+		"price": "$",
+		"distance": 6.5,
+		"rating": 0.6,
+		"images": [
+			"image_6",
+			"image_15",
+			"image_19",
+			"image_10"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Hidden Bar",
+		"address": "Jl. Langit Damai No. 16",
+		"price": "$$",
+		"distance": 6.1,
+		"rating": 3.9,
+		"images": [
+			"image_4",
+			"image_16",
+			"image_12",
+			"image_2"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Jungle Grill",
+		"address": "Jl. Damai Mentari No. 28",
+		"price": "$$",
+		"distance": 6.2,
+		"rating": 4.5,
+		"images": [
+			"image_15",
+			"image_4",
+			"image_19",
+			"image_2"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Lazy Palace",
+		"address": "Jl. Sentosa Lembut No. 16",
+		"price": "$$",
+		"distance": 6.9,
+		"rating": 0.7,
+		"images": [
+			"image_7",
+			"image_9",
+			"image_1",
+			"image_12"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Golden Den",
+		"address": "Jl. Bersih Bersih No. 9",
+		"price": "$$",
+		"distance": 6.0,
+		"rating": 0.7,
+		"images": [
+			"image_16",
+			"image_18",
+			"image_15",
+			"image_1"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Spicy Grill",
+		"address": "Jl. Jaya Bersih No. 22",
+		"price": "$$",
+		"distance": 6.4,
+		"rating": 4.8,
+		"images": [
+			"image_2",
+			"image_5",
+			"image_15",
+			"image_1"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Amber Grill",
+		"address": "Jl. Indah Bening No. 22",
+		"price": "$$$",
+		"distance": 6.8,
+		"rating": 3.0,
+		"images": [
+			"image_1",
+			"image_4",
+			"image_19",
+			"image_20"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Velvet House",
+		"address": "Jl. Cemerlang Sawah No. 26",
+		"price": "$$$",
+		"distance": 6.8,
+		"rating": 4.7,
+		"images": [
+			"image_18",
+			"image_7",
+			"image_9",
+			"image_4"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Chili Joint",
+		"address": "Jl. Jaya Cemerlang No. 19",
+		"price": "$$$",
+		"distance": 6.5,
+		"rating": 4.9,
+		"images": [
+			"image_16",
+			"image_4",
+			"image_18",
+			"image_13"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Shadow Terrace",
+		"address": "Jl. Damai Gunung No. 7",
+		"price": "$$$",
+		"distance": 6.4,
+		"rating": 0.8,
+		"images": [
+			"image_13",
+			"image_14",
+			"image_5",
+			"image_19"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Green Corner",
+		"address": "Jl. Pelangi Warna No. 9",
+		"price": "$$$",
+		"distance": 6.5,
+		"rating": 1.9,
+		"images": [
+			"image_9",
+			"image_12",
+			"image_5",
+			"image_14"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Royal Bistro",
+		"address": "Jl. Langit Indah No. 6",
+		"price": "$$$$",
+		"distance": 6.2,
+		"rating": 3.8,
+		"images": [
+			"image_11",
+			"image_6",
+			"image_18",
+			"image_20"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Tropical Lounge",
+		"address": "Jl. Putih Putih No. 16",
+		"price": "$$$$",
+		"distance": 7.0,
+		"rating": 3.4,
+		"images": [
+			"image_16",
+			"image_5",
+			"image_11",
+			"image_9"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Chili Joint",
+		"address": "Jl. Syukur Indah No. 25",
+		"price": "$$$$",
+		"distance": 6.2,
+		"rating": 1.7,
+		"images": [
+			"image_4",
+			"image_9",
+			"image_13",
+			"image_1"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Shadow Deck",
+		"address": "Jl. Sentosa Cemerlang No. 11",
+		"price": "$$$$",
+		"distance": 6.4,
+		"rating": 0.1,
+		"images": [
+			"image_13",
+			"image_5",
+			"image_10",
+			"image_9"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Sunset Den",
+		"address": "Jl. Bening Gunung No. 9",
+		"price": "$$$$",
+		"distance": 6.3,
+		"rating": 4.9,
+		"images": [
+			"image_10",
+			"image_5",
+			"image_8",
+			"image_17"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Ocean Bistro",
+		"address": "Jl. Indah Hijau No. 16",
+		"price": "$",
+		"distance": 7.1,
+		"rating": 2.2,
+		"images": [
+			"image_19",
+			"image_1",
+			"image_13",
+			"image_7"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Shadow Eatery",
+		"address": "Jl. Terang Sawah No. 25",
+		"price": "$",
+		"distance": 7.9,
+		"rating": 3.0,
+		"images": [
+			"image_7",
+			"image_17",
+			"image_8",
+			"image_13"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Fire Corner",
+		"address": "Jl. Warna Bening No. 9",
+		"price": "$",
+		"distance": 7.9,
+		"rating": 0.0,
+		"images": [
+			"image_18",
+			"image_16",
+			"image_3",
+			"image_8"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Sunset Joint",
+		"address": "Jl. Mentari Damai No. 24",
+		"price": "$",
+		"distance": 8.0,
+		"rating": 3.3,
+		"images": [
+			"image_18",
+			"image_17",
+			"image_8",
+			"image_7"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Hidden Corner",
+		"address": "Jl. Cemerlang Sawah No. 19",
+		"price": "$",
+		"distance": 7.9,
+		"rating": 0.7,
+		"images": [
+			"image_20",
+			"image_7",
+			"image_12",
+			"image_14"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Lazy Terrace",
+		"address": "Jl. Damai Sawah No. 3",
+		"price": "$$",
+		"distance": 7.5,
+		"rating": 4.4,
+		"images": [
+			"image_10",
+			"image_15",
+			"image_18",
+			"image_2"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Bloom Deck",
+		"address": "Jl. Warna Bayu No. 18",
+		"price": "$$",
+		"distance": 7.5,
+		"rating": 2.2,
+		"images": [
+			"image_1",
+			"image_6",
+			"image_16",
+			"image_17"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Savory Bar",
+		"address": "Jl. Sawah Tenang No. 21",
+		"price": "$$",
+		"distance": 7.8,
+		"rating": 4.4,
+		"images": [
+			"image_17",
+			"image_13",
+			"image_19",
+			"image_6"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Silent Corner",
+		"address": "Jl. Langit Terang No. 15",
+		"price": "$$",
+		"distance": 7.1,
+		"rating": 0.0,
+		"images": [
+			"image_17",
+			"image_6",
+			"image_18",
+			"image_1"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Sunset Dining",
+		"address": "Jl. Langit Tenang No. 11",
+		"price": "$$",
+		"distance": 7.8,
+		"rating": 4.9,
+		"images": [
+			"image_3",
+			"image_18",
+			"image_13",
+			"image_6"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Jungle Cafe",
+		"address": "Jl. Sinar Bayu No. 14",
+		"price": "$$$",
+		"distance": 7.6,
+		"rating": 3.5,
+		"images": [
+			"image_9",
+			"image_3",
+			"image_14",
+			"image_1"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Rustic Dock",
+		"address": "Jl. Gunung Indah No. 1",
+		"price": "$$$",
+		"distance": 8.0,
+		"rating": 3.2,
+		"images": [
+			"image_12",
+			"image_2",
+			"image_5",
+			"image_7"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Hidden Bistro",
+		"address": "Jl. Langit Damai No. 19",
+		"price": "$$$",
+		"distance": 7.2,
+		"rating": 0.4,
+		"images": [
+			"image_12",
+			"image_17",
+			"image_10",
+			"image_13"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Urban Bistro",
+		"address": "Jl. Mentari Lembut No. 3",
+		"price": "$$$",
+		"distance": 7.9,
+		"rating": 0.2,
+		"images": [
+			"image_8",
+			"image_2",
+			"image_4",
+			"image_14"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Savory House",
+		"address": "Jl. Laut Mentari No. 11",
+		"price": "$$$",
+		"distance": 7.3,
+		"rating": 0.3,
+		"images": [
+			"image_8",
+			"image_17",
+			"image_19",
+			"image_13"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Lazy Dock",
+		"address": "Jl. Makmur Cemerlang No. 12",
+		"price": "$$$$",
+		"distance": 8.0,
+		"rating": 2.3,
+		"images": [
+			"image_6",
+			"image_18",
+			"image_5",
+			"image_16"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Cozy Deck",
+		"address": "Jl. Damai Sentosa No. 18",
+		"price": "$$$$",
+		"distance": 7.5,
+		"rating": 0.8,
+		"images": [
+			"image_17",
+			"image_5",
+			"image_18",
+			"image_11"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Rustic Eatery",
+		"address": "Jl. Lembut Terang No. 4",
+		"price": "$$$$",
+		"distance": 7.9,
+		"rating": 2.3,
+		"images": [
+			"image_9",
+			"image_17",
+			"image_15",
+			"image_12"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Paradise Bistro",
+		"address": "Jl. Gunung Mentari No. 16",
+		"price": "$$$$",
+		"distance": 7.4,
+		"rating": 4.8,
+		"images": [
+			"image_1",
+			"image_20",
+			"image_8",
+			"image_7"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Silent Bar",
+		"address": "Jl. Sentosa Ombak No. 18",
+		"price": "$$$$",
+		"distance": 7.7,
+		"rating": 1.3,
+		"images": [
+			"image_18",
+			"image_6",
+			"image_7",
+			"image_1"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Shadow Dining",
+		"address": "Jl. Bersih Jaya No. 5",
+		"price": "$",
+		"distance": 8.9,
+		"rating": 0.5,
+		"images": [
+			"image_12",
+			"image_2",
+			"image_9",
+			"image_16"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Wild Den",
+		"address": "Jl. Terang Sinar No. 17",
+		"price": "$",
+		"distance": 8.9,
+		"rating": 3.0,
+		"images": [
+			"image_17",
+			"image_2",
+			"image_1",
+			"image_15"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Spicy Terrace",
+		"address": "Jl. Indah Tenang No. 23",
+		"price": "$",
+		"distance": 8.4,
+		"rating": 4.2,
+		"images": [
+			"image_14",
+			"image_20",
+			"image_5",
+			"image_1"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Wild Deck",
+		"address": "Jl. Bening Terang No. 25",
+		"price": "$",
+		"distance": 8.6,
+		"rating": 4.4,
+		"images": [
+			"image_17",
+			"image_6",
+			"image_3",
+			"image_16"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Crystal Dock",
+		"address": "Jl. Terang Sinar No. 25",
+		"price": "$",
+		"distance": 8.1,
+		"rating": 4.5,
+		"images": [
+			"image_8",
+			"image_10",
+			"image_7",
+			"image_20"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Hidden Hut",
+		"address": "Jl. Makmur Lembut No. 24",
+		"price": "$$",
+		"distance": 8.2,
+		"rating": 4.2,
+		"images": [
+			"image_6",
+			"image_8",
+			"image_20",
+			"image_7"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Silent Dock",
+		"address": "Jl. Terang Sawah No. 30",
+		"price": "$$",
+		"distance": 8.1,
+		"rating": 0.9,
+		"images": [
+			"image_6",
+			"image_12",
+			"image_4",
+			"image_15"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Urban Corner",
+		"address": "Jl. Cemerlang Bayu No. 14",
+		"price": "$$",
+		"distance": 8.2,
+		"rating": 4.2,
+		"images": [
+			"image_5",
+			"image_6",
+			"image_16",
+			"image_9"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Lazy Pit",
+		"address": "Jl. Putih Sawah No. 12",
+		"price": "$$",
+		"distance": 9.0,
+		"rating": 4.7,
+		"images": [
+			"image_19",
+			"image_18",
+			"image_14",
+			"image_12"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Paradise Dock",
+		"address": "Jl. Gunung Sentosa No. 17",
+		"price": "$$",
+		"distance": 8.9,
+		"rating": 1.8,
+		"images": [
+			"image_12",
+			"image_8",
+			"image_4",
+			"image_17"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Spicy Bar",
+		"address": "Jl. Putih Hijau No. 26",
+		"price": "$$$",
+		"distance": 8.1,
+		"rating": 4.2,
+		"images": [
+			"image_11",
+			"image_16",
+			"image_15",
+			"image_10"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Golden Lounge",
+		"address": "Jl. Bambu Pelangi No. 20",
+		"price": "$$$",
+		"distance": 8.8,
+		"rating": 2.4,
+		"images": [
+			"image_7",
+			"image_8",
+			"image_15",
+			"image_17"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Chili Den",
+		"address": "Jl. Laut Ombak No. 28",
+		"price": "$$$",
+		"distance": 8.2,
+		"rating": 4.9,
+		"images": [
+			"image_17",
+			"image_14",
+			"image_18",
+			"image_13"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Green Terrace",
+		"address": "Jl. Bersih Bayu No. 28",
+		"price": "$$$",
+		"distance": 8.2,
+		"rating": 0.8,
+		"images": [
+			"image_9",
+			"image_10",
+			"image_3",
+			"image_1"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Green Bistro",
+		"address": "Jl. Ombak Bambu No. 16",
+		"price": "$$$",
+		"distance": 8.0,
+		"rating": 3.8,
+		"images": [
+			"image_11",
+			"image_14",
+			"image_5",
+			"image_1"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Paradise Table",
+		"address": "Jl. Terang Pelangi No. 18",
+		"price": "$$$$",
+		"distance": 8.5,
+		"rating": 1.3,
+		"images": [
+			"image_19",
+			"image_10",
+			"image_1",
+			"image_9"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Paradise House",
+		"address": "Jl. Laut Sinar No. 16",
+		"price": "$$$$",
+		"distance": 8.6,
+		"rating": 0.7,
+		"images": [
+			"image_10",
+			"image_14",
+			"image_3",
+			"image_7"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Rustic Dock",
+		"address": "Jl. Bayu Mentari No. 9",
+		"price": "$$$$",
+		"distance": 8.7,
+		"rating": 2.8,
+		"images": [
+			"image_10",
+			"image_1",
+			"image_3",
+			"image_9"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Sunset Eatery",
+		"address": "Jl. Langit Bayu No. 22",
+		"price": "$$$$",
+		"distance": 8.8,
+		"rating": 2.5,
+		"images": [
+			"image_2",
+			"image_11",
+			"image_19",
+			"image_6"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Shadow Kitchen",
+		"address": "Jl. Syukur Makmur No. 4",
+		"price": "$$$$",
+		"distance": 8.4,
+		"rating": 4.1,
+		"images": [
+			"image_19",
+			"image_8",
+			"image_16",
+			"image_14"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Sunset Cafe",
+		"address": "Jl. Warna Putih No. 9",
+		"price": "$",
+		"distance": 9.2,
+		"rating": 1.1,
+		"images": [
+			"image_2",
+			"image_3",
+			"image_15",
+			"image_6"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Bloom Kitchen",
+		"address": "Jl. Sawah Cemerlang No. 17",
+		"price": "$",
+		"distance": 9.9,
+		"rating": 4.8,
+		"images": [
+			"image_12",
+			"image_19",
+			"image_14",
+			"image_17"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Shadow Grill",
+		"address": "Jl. Lembut Jaya No. 10",
+		"price": "$",
+		"distance": 9.0,
+		"rating": 4.3,
+		"images": [
+			"image_20",
+			"image_13",
+			"image_8",
+			"image_5"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Lotus Spot",
+		"address": "Jl. Bayu Sinar No. 4",
+		"price": "$",
+		"distance": 9.5,
+		"rating": 1.1,
+		"images": [
+			"image_4",
+			"image_17",
+			"image_19",
+			"image_18"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Cozy Grill",
+		"address": "Jl. Bersih Makmur No. 13",
+		"price": "$",
+		"distance": 9.3,
+		"rating": 1.6,
+		"images": [
+			"image_10",
+			"image_4",
+			"image_20",
+			"image_5"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Bloom Corner",
+		"address": "Jl. Syukur Bayu No. 21",
+		"price": "$$",
+		"distance": 9.4,
+		"rating": 4.0,
+		"images": [
+			"image_1",
+			"image_19",
+			"image_4",
+			"image_7"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Rustic Bar",
+		"address": "Jl. Tenang Ombak No. 9",
+		"price": "$$",
+		"distance": 9.8,
+		"rating": 1.8,
+		"images": [
+			"image_19",
+			"image_13",
+			"image_9",
+			"image_14"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Jungle Cafe",
+		"address": "Jl. Sentosa Indah No. 20",
+		"price": "$$",
+		"distance": 9.6,
+		"rating": 0.6,
+		"images": [
+			"image_3",
+			"image_5",
+			"image_10",
+			"image_16"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Velvet Dock",
+		"address": "Jl. Hijau Tenang No. 13",
+		"price": "$$",
+		"distance": 9.3,
+		"rating": 4.1,
+		"images": [
+			"image_18",
+			"image_8",
+			"image_19",
+			"image_4"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Paradise Grill",
+		"address": "Jl. Cemerlang Hijau No. 7",
+		"price": "$$",
+		"distance": 10.0,
+		"rating": 5.0,
+		"images": [
+			"image_18",
+			"image_17",
+			"image_9",
+			"image_3"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Ocean House",
+		"address": "Jl. Makmur Damai No. 30",
+		"price": "$$$",
+		"distance": 9.5,
+		"rating": 4.3,
+		"images": [
+			"image_15",
+			"image_11",
+			"image_12",
+			"image_9"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Shadow Hut",
+		"address": "Jl. Putih Makmur No. 26",
+		"price": "$$$",
+		"distance": 9.2,
+		"rating": 2.9,
+		"images": [
+			"image_13",
+			"image_6",
+			"image_3",
+			"image_9"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Velvet Terrace",
+		"address": "Jl. Jaya Makmur No. 10",
+		"price": "$$$",
+		"distance": 9.5,
+		"rating": 4.7,
+		"images": [
+			"image_6",
+			"image_9",
+			"image_5",
+			"image_18"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Rustic Grill",
+		"address": "Jl. Mentari Terang No. 12",
+		"price": "$$$",
+		"distance": 9.3,
+		"rating": 1.5,
+		"images": [
+			"image_8",
+			"image_13",
+			"image_3",
+			"image_14"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Lazy Cafe",
+		"address": "Jl. Pelangi Jaya No. 26",
+		"price": "$$$",
+		"distance": 9.1,
+		"rating": 4.2,
+		"images": [
+			"image_15",
+			"image_10",
+			"image_6",
+			"image_11"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Sunset Corner",
+		"address": "Jl. Laut Sejuk No. 5",
+		"price": "$$$$",
+		"distance": 9.5,
+		"rating": 3.2,
+		"images": [
+			"image_6",
+			"image_15",
+			"image_14",
+			"image_17"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Sunset Pit",
+		"address": "Jl. Mentari Langit No. 21",
+		"price": "$$$$",
+		"distance": 9.8,
+		"rating": 0.2,
+		"images": [
+			"image_14",
+			"image_2",
+			"image_20",
+			"image_15"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Velvet Lounge",
+		"address": "Jl. Sawah Sejuk No. 11",
+		"price": "$$$$",
+		"distance": 9.7,
+		"rating": 0.1,
+		"images": [
+			"image_18",
+			"image_20",
+			"image_19",
+			"image_13"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Ocean Grill",
+		"address": "Jl. Sejuk Lembut No. 25",
+		"price": "$$$$",
+		"distance": 9.9,
+		"rating": 4.7,
+		"images": [
+			"image_20",
+			"image_17",
+			"image_7",
+			"image_15"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Jungle Pit",
+		"address": "Jl. Ombak Sinar No. 12",
+		"price": "$$$$",
+		"distance": 9.6,
+		"rating": 4.6,
+		"images": [
+			"image_4",
+			"image_7",
+			"image_6",
+			"image_9"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Shadow Terrace",
+		"address": "Jl. Sinar Cemerlang No. 2",
+		"price": "$",
+		"distance": 10.0,
+		"rating": 0.4,
+		"images": [
+			"image_5",
+			"image_13",
+			"image_2",
+			"image_14"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Savory Pit",
+		"address": "Jl. Bersih Putih No. 29",
+		"price": "$",
+		"distance": 10.1,
+		"rating": 2.3,
+		"images": [
+			"image_8",
+			"image_14",
+			"image_6",
+			"image_2"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Velvet House",
+		"address": "Jl. Lembut Mentari No. 19",
+		"price": "$",
+		"distance": 10.5,
+		"rating": 3.4,
+		"images": [
+			"image_5",
+			"image_15",
+			"image_11",
+			"image_18"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Bloom Dining",
+		"address": "Jl. Terang Lembut No. 28",
+		"price": "$",
+		"distance": 10.2,
+		"rating": 0.7,
+		"images": [
+			"image_20",
+			"image_10",
+			"image_17",
+			"image_16"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Shadow Lounge",
+		"address": "Jl. Damai Syukur No. 6",
+		"price": "$",
+		"distance": 10.8,
+		"rating": 4.3,
+		"images": [
+			"image_18",
+			"image_5",
+			"image_17",
+			"image_15"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Cozy Kitchen",
+		"address": "Jl. Damai Gunung No. 17",
+		"price": "$$",
+		"distance": 10.6,
+		"rating": 1.1,
+		"images": [
+			"image_3",
+			"image_11",
+			"image_18",
+			"image_14"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Tropical Bistro",
+		"address": "Jl. Laut Makmur No. 15",
+		"price": "$$",
+		"distance": 10.3,
+		"rating": 2.0,
+		"images": [
+			"image_1",
+			"image_14",
+			"image_15",
+			"image_10"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Jungle Den",
+		"address": "Jl. Sentosa Lembut No. 12",
+		"price": "$$",
+		"distance": 10.7,
+		"rating": 3.8,
+		"images": [
+			"image_3",
+			"image_8",
+			"image_11",
+			"image_10"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Ocean Dock",
+		"address": "Jl. Lembut Damai No. 29",
+		"price": "$$",
+		"distance": 10.9,
+		"rating": 2.5,
+		"images": [
+			"image_18",
+			"image_3",
+			"image_8",
+			"image_19"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Bloom Corner",
+		"address": "Jl. Syukur Gunung No. 24",
+		"price": "$$",
+		"distance": 10.6,
+		"rating": 3.5,
+		"images": [
+			"image_3",
+			"image_1",
+			"image_11",
+			"image_18"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Tropical Joint",
+		"address": "Jl. Lembut Bersih No. 5",
+		"price": "$$$",
+		"distance": 10.3,
+		"rating": 4.6,
+		"images": [
+			"image_14",
+			"image_15",
+			"image_13",
+			"image_19"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Savory Bar",
+		"address": "Jl. Mentari Hijau No. 27",
+		"price": "$$$",
+		"distance": 10.5,
+		"rating": 3.8,
+		"images": [
+			"image_4",
+			"image_15",
+			"image_7",
+			"image_17"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Tropical Eatery",
+		"address": "Jl. Lembut Bayu No. 28",
+		"price": "$$$",
+		"distance": 10.8,
+		"rating": 0.3,
+		"images": [
+			"image_1",
+			"image_10",
+			"image_13",
+			"image_15"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Sunset Dock",
+		"address": "Jl. Jaya Bersih No. 8",
+		"price": "$$$",
+		"distance": 10.6,
+		"rating": 3.3,
+		"images": [
+			"image_19",
+			"image_11",
+			"image_4",
+			"image_18"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Fire Bistro",
+		"address": "Jl. Langit Lembut No. 6",
+		"price": "$$$",
+		"distance": 11.0,
+		"rating": 0.5,
+		"images": [
+			"image_10",
+			"image_20",
+			"image_12",
+			"image_11"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Hidden Bar",
+		"address": "Jl. Bayu Makmur No. 11",
+		"price": "$$$$",
+		"distance": 10.5,
+		"rating": 4.3,
+		"images": [
+			"image_9",
+			"image_1",
+			"image_14",
+			"image_3"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Savory House",
+		"address": "Jl. Warna Cemerlang No. 9",
+		"price": "$$$$",
+		"distance": 10.4,
+		"rating": 3.3,
+		"images": [
+			"image_13",
+			"image_7",
+			"image_3",
+			"image_18"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Lotus Corner",
+		"address": "Jl. Ombak Terang No. 6",
+		"price": "$$$$",
+		"distance": 10.2,
+		"rating": 2.1,
+		"images": [
+			"image_6",
+			"image_13",
+			"image_8",
+			"image_16"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Royal Pit",
+		"address": "Jl. Pelangi Hijau No. 4",
+		"price": "$$$$",
+		"distance": 10.6,
+		"rating": 1.6,
+		"images": [
+			"image_10",
+			"image_11",
+			"image_19",
+			"image_4"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Amber Bistro",
+		"address": "Jl. Makmur Makmur No. 19",
+		"price": "$$$$",
+		"distance": 10.3,
+		"rating": 3.4,
+		"images": [
+			"image_1",
+			"image_13",
+			"image_20",
+			"image_3"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Shadow Terrace",
+		"address": "Jl. Syukur Bersih No. 17",
+		"price": "$",
+		"distance": 11.0,
+		"rating": 4.0,
+		"images": [
+			"image_16",
+			"image_17",
+			"image_19",
+			"image_5"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Lotus Cafe",
+		"address": "Jl. Tenang Jaya No. 21",
+		"price": "$",
+		"distance": 11.8,
+		"rating": 3.8,
+		"images": [
+			"image_10",
+			"image_3",
+			"image_4",
+			"image_5"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Crystal Pit",
+		"address": "Jl. Laut Cemerlang No. 5",
+		"price": "$",
+		"distance": 11.9,
+		"rating": 3.8,
+		"images": [
+			"image_14",
+			"image_4",
+			"image_20",
+			"image_2"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Lotus Eatery",
+		"address": "Jl. Warna Bayu No. 1",
+		"price": "$",
+		"distance": 11.3,
+		"rating": 1.3,
+		"images": [
+			"image_18",
+			"image_2",
+			"image_11",
+			"image_4"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Bright Joint",
+		"address": "Jl. Sinar Gunung No. 8",
+		"price": "$",
+		"distance": 11.7,
+		"rating": 1.3,
+		"images": [
+			"image_12",
+			"image_6",
+			"image_4",
+			"image_13"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Rustic House",
+		"address": "Jl. Warna Sentosa No. 21",
+		"price": "$$",
+		"distance": 11.3,
+		"rating": 4.2,
+		"images": [
+			"image_13",
+			"image_7",
+			"image_18",
+			"image_12"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Bright House",
+		"address": "Jl. Sentosa Pelangi No. 1",
+		"price": "$$",
+		"distance": 11.6,
+		"rating": 4.4,
+		"images": [
+			"image_2",
+			"image_12",
+			"image_3",
+			"image_8"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Savory Bistro",
+		"address": "Jl. Bersih Sinar No. 9",
+		"price": "$$",
+		"distance": 11.6,
+		"rating": 3.3,
+		"images": [
+			"image_9",
+			"image_19",
+			"image_11",
+			"image_4"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Ocean Terrace",
+		"address": "Jl. Terang Bening No. 15",
+		"price": "$$",
+		"distance": 11.8,
+		"rating": 4.0,
+		"images": [
+			"image_15",
+			"image_8",
+			"image_9",
+			"image_7"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Paradise Terrace",
+		"address": "Jl. Pelangi Jaya No. 30",
+		"price": "$$",
+		"distance": 11.2,
+		"rating": 3.9,
+		"images": [
+			"image_2",
+			"image_14",
+			"image_7",
+			"image_16"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Hidden Corner",
+		"address": "Jl. Bersih Sentosa No. 25",
+		"price": "$$$",
+		"distance": 11.0,
+		"rating": 2.8,
+		"images": [
+			"image_14",
+			"image_3",
+			"image_13",
+			"image_15"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Chili Bistro",
+		"address": "Jl. Putih Terang No. 22",
+		"price": "$$$",
+		"distance": 11.1,
+		"rating": 2.6,
+		"images": [
+			"image_3",
+			"image_12",
+			"image_15",
+			"image_18"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Lotus Lounge",
+		"address": "Jl. Gunung Putih No. 9",
+		"price": "$$$",
+		"distance": 11.6,
+		"rating": 3.4,
+		"images": [
+			"image_6",
+			"image_11",
+			"image_4",
+			"image_7"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Hidden Dining",
+		"address": "Jl. Bening Sentosa No. 6",
+		"price": "$$$",
+		"distance": 11.3,
+		"rating": 3.8,
+		"images": [
+			"image_11",
+			"image_7",
+			"image_12",
+			"image_6"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Amber Dock",
+		"address": "Jl. Sentosa Mentari No. 1",
+		"price": "$$$",
+		"distance": 11.9,
+		"rating": 2.3,
+		"images": [
+			"image_1",
+			"image_3",
+			"image_5",
+			"image_11"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Spicy Grill",
+		"address": "Jl. Sentosa Jaya No. 1",
+		"price": "$$$$",
+		"distance": 11.8,
+		"rating": 1.7,
+		"images": [
+			"image_19",
+			"image_2",
+			"image_5",
+			"image_15"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Bloom Kitchen",
+		"address": "Jl. Mentari Warna No. 13",
+		"price": "$$$$",
+		"distance": 11.6,
+		"rating": 1.5,
+		"images": [
+			"image_16",
+			"image_9",
+			"image_10",
+			"image_1"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Golden Joint",
+		"address": "Jl. Bambu Sinar No. 14",
+		"price": "$$$$",
+		"distance": 11.2,
+		"rating": 3.0,
+		"images": [
+			"image_16",
+			"image_14",
+			"image_7",
+			"image_2"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Golden Bistro",
+		"address": "Jl. Laut Sentosa No. 21",
+		"price": "$$$$",
+		"distance": 11.3,
+		"rating": 4.5,
+		"images": [
+			"image_20",
+			"image_16",
+			"image_1",
+			"image_11"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Cozy Dining",
+		"address": "Jl. Sentosa Hijau No. 24",
+		"price": "$$$$",
+		"distance": 11.1,
+		"rating": 5.0,
+		"images": [
+			"image_2",
+			"image_8",
+			"image_16",
+			"image_17"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Savory Spot",
+		"address": "Jl. Sinar Syukur No. 26",
+		"price": "$",
+		"distance": 12.3,
+		"rating": 4.3,
+		"images": [
+			"image_19",
+			"image_14",
+			"image_6",
+			"image_5"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Spicy Hut",
+		"address": "Jl. Bayu Hijau No. 14",
+		"price": "$",
+		"distance": 12.3,
+		"rating": 4.3,
+		"images": [
+			"image_7",
+			"image_13",
+			"image_19",
+			"image_4"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Bloom Deck",
+		"address": "Jl. Bening Cemerlang No. 24",
+		"price": "$",
+		"distance": 12.8,
+		"rating": 2.1,
+		"images": [
+			"image_14",
+			"image_5",
+			"image_3",
+			"image_4"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Bloom Eatery",
+		"address": "Jl. Laut Putih No. 26",
+		"price": "$",
+		"distance": 12.3,
+		"rating": 0.2,
+		"images": [
+			"image_8",
+			"image_9",
+			"image_5",
+			"image_10"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Wild Palace",
+		"address": "Jl. Sejuk Jaya No. 14",
+		"price": "$",
+		"distance": 12.3,
+		"rating": 4.4,
+		"images": [
+			"image_13",
+			"image_10",
+			"image_19",
+			"image_4"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Velvet Joint",
+		"address": "Jl. Bening Putih No. 8",
+		"price": "$$",
+		"distance": 12.9,
+		"rating": 3.2,
+		"images": [
+			"image_6",
+			"image_1",
+			"image_7",
+			"image_11"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Amber Pit",
+		"address": "Jl. Makmur Bambu No. 26",
+		"price": "$$",
+		"distance": 12.9,
+		"rating": 4.0,
+		"images": [
+			"image_12",
+			"image_19",
+			"image_4",
+			"image_20"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Wild Joint",
+		"address": "Jl. Syukur Jaya No. 18",
+		"price": "$$",
+		"distance": 13.0,
+		"rating": 0.9,
+		"images": [
+			"image_10",
+			"image_6",
+			"image_3",
+			"image_8"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Sunset Cafe",
+		"address": "Jl. Makmur Sawah No. 26",
+		"price": "$$",
+		"distance": 12.9,
+		"rating": 3.0,
+		"images": [
+			"image_2",
+			"image_7",
+			"image_6",
+			"image_10"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Crystal Kitchen",
+		"address": "Jl. Gunung Syukur No. 19",
+		"price": "$$",
+		"distance": 12.3,
+		"rating": 1.4,
+		"images": [
+			"image_17",
+			"image_4",
+			"image_10",
+			"image_15"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Bright Hut",
+		"address": "Jl. Jaya Putih No. 5",
+		"price": "$$$",
+		"distance": 13.0,
+		"rating": 3.0,
+		"images": [
+			"image_1",
+			"image_2",
+			"image_4",
+			"image_17"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Ocean Den",
+		"address": "Jl. Bayu Bayu No. 14",
+		"price": "$$$",
+		"distance": 12.6,
+		"rating": 0.1,
+		"images": [
+			"image_15",
+			"image_20",
+			"image_16",
+			"image_3"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Rustic Bar",
+		"address": "Jl. Tenang Bening No. 1",
+		"price": "$$$",
+		"distance": 12.4,
+		"rating": 0.7,
+		"images": [
+			"image_7",
+			"image_11",
+			"image_6",
+			"image_1"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Spicy Spot",
+		"address": "Jl. Tenang Sentosa No. 7",
+		"price": "$$$",
+		"distance": 12.4,
+		"rating": 0.3,
+		"images": [
+			"image_16",
+			"image_9",
+			"image_4",
+			"image_17"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Golden Cafe",
+		"address": "Jl. Sejuk Sawah No. 6",
+		"price": "$$$",
+		"distance": 12.8,
+		"rating": 4.5,
+		"images": [
+			"image_2",
+			"image_12",
+			"image_1",
+			"image_9"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Silent Dining",
+		"address": "Jl. Pelangi Ombak No. 20",
+		"price": "$$$$",
+		"distance": 12.8,
+		"rating": 4.1,
+		"images": [
+			"image_17",
+			"image_2",
+			"image_18",
+			"image_10"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Green Lounge",
+		"address": "Jl. Putih Mentari No. 15",
+		"price": "$$$$",
+		"distance": 12.0,
+		"rating": 0.1,
+		"images": [
+			"image_18",
+			"image_11",
+			"image_5",
+			"image_9"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Spicy Eatery",
+		"address": "Jl. Terang Sentosa No. 4",
+		"price": "$$$$",
+		"distance": 12.8,
+		"rating": 2.4,
+		"images": [
+			"image_20",
+			"image_7",
+			"image_11",
+			"image_1"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Lotus House",
+		"address": "Jl. Damai Jaya No. 15",
+		"price": "$$$$",
+		"distance": 12.5,
+		"rating": 4.0,
+		"images": [
+			"image_7",
+			"image_6",
+			"image_12",
+			"image_19"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Crystal Deck",
+		"address": "Jl. Bersih Indah No. 2",
+		"price": "$$$$",
+		"distance": 12.7,
+		"rating": 2.7,
+		"images": [
+			"image_19",
+			"image_9",
+			"image_18",
+			"image_1"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Hidden Joint",
+		"address": "Jl. Makmur Terang No. 26",
+		"price": "$",
+		"distance": 13.6,
+		"rating": 0.8,
+		"images": [
+			"image_8",
+			"image_15",
+			"image_6",
+			"image_10"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Velvet Pit",
+		"address": "Jl. Sinar Pelangi No. 3",
+		"price": "$",
+		"distance": 13.6,
+		"rating": 4.7,
+		"images": [
+			"image_12",
+			"image_20",
+			"image_16",
+			"image_14"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Tropical Hut",
+		"address": "Jl. Bersih Bersih No. 20",
+		"price": "$",
+		"distance": 13.5,
+		"rating": 0.6,
+		"images": [
+			"image_1",
+			"image_6",
+			"image_2",
+			"image_13"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Ocean Dining",
+		"address": "Jl. Langit Bersih No. 26",
+		"price": "$",
+		"distance": 13.6,
+		"rating": 0.5,
+		"images": [
+			"image_11",
+			"image_19",
+			"image_15",
+			"image_12"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Bloom Eatery",
+		"address": "Jl. Bersih Pelangi No. 4",
+		"price": "$",
+		"distance": 13.3,
+		"rating": 1.1,
+		"images": [
+			"image_10",
+			"image_19",
+			"image_16",
+			"image_18"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Royal Joint",
+		"address": "Jl. Cemerlang Warna No. 9",
+		"price": "$$",
+		"distance": 13.9,
+		"rating": 3.3,
+		"images": [
+			"image_3",
+			"image_18",
+			"image_14",
+			"image_13"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Bright Lounge",
+		"address": "Jl. Sentosa Makmur No. 24",
+		"price": "$$",
+		"distance": 13.9,
+		"rating": 3.9,
+		"images": [
+			"image_6",
+			"image_7",
+			"image_4",
+			"image_3"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Golden Joint",
+		"address": "Jl. Indah Sawah No. 11",
+		"price": "$$",
+		"distance": 13.5,
+		"rating": 1.7,
+		"images": [
+			"image_10",
+			"image_2",
+			"image_15",
+			"image_16"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Chili Den",
+		"address": "Jl. Mentari Sinar No. 11",
+		"price": "$$",
+		"distance": 13.4,
+		"rating": 2.3,
+		"images": [
+			"image_2",
+			"image_17",
+			"image_16",
+			"image_14"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Crystal Kitchen",
+		"address": "Jl. Bambu Hijau No. 3",
+		"price": "$$",
+		"distance": 13.5,
+		"rating": 1.8,
+		"images": [
+			"image_18",
+			"image_5",
+			"image_13",
+			"image_15"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Lazy Lounge",
+		"address": "Jl. Putih Makmur No. 2",
+		"price": "$$$",
+		"distance": 13.5,
+		"rating": 4.4,
+		"images": [
+			"image_3",
+			"image_16",
+			"image_1",
+			"image_7"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Golden Bar",
+		"address": "Jl. Bayu Sinar No. 30",
+		"price": "$$$",
+		"distance": 13.8,
+		"rating": 4.8,
+		"images": [
+			"image_14",
+			"image_9",
+			"image_15",
+			"image_8"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Fire Spot",
+		"address": "Jl. Indah Laut No. 27",
+		"price": "$$$",
+		"distance": 13.9,
+		"rating": 1.4,
+		"images": [
+			"image_8",
+			"image_12",
+			"image_6",
+			"image_5"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Sunset Lounge",
+		"address": "Jl. Makmur Bening No. 29",
+		"price": "$$$",
+		"distance": 13.1,
+		"rating": 1.4,
+		"images": [
+			"image_14",
+			"image_5",
+			"image_6",
+			"image_10"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Urban Den",
+		"address": "Jl. Bambu Pelangi No. 12",
+		"price": "$$$",
+		"distance": 13.8,
+		"rating": 1.1,
+		"images": [
+			"image_4",
+			"image_6",
+			"image_18",
+			"image_17"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Paradise Eatery",
+		"address": "Jl. Bersih Pelangi No. 20",
+		"price": "$$$$",
+		"distance": 13.9,
+		"rating": 0.4,
+		"images": [
+			"image_12",
+			"image_8",
+			"image_16",
+			"image_4"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Velvet Hut",
+		"address": "Jl. Indah Makmur No. 5",
+		"price": "$$$$",
+		"distance": 13.1,
+		"rating": 4.2,
+		"images": [
+			"image_8",
+			"image_5",
+			"image_17",
+			"image_1"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Chili Hut",
+		"address": "Jl. Bening Tenang No. 3",
+		"price": "$$$$",
+		"distance": 13.3,
+		"rating": 3.6,
+		"images": [
+			"image_11",
+			"image_13",
+			"image_19",
+			"image_12"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Hidden House",
+		"address": "Jl. Ombak Ombak No. 30",
+		"price": "$$$$",
+		"distance": 13.3,
+		"rating": 0.2,
+		"images": [
+			"image_13",
+			"image_10",
+			"image_8",
+			"image_9"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Crystal Hut",
+		"address": "Jl. Bambu Bayu No. 28",
+		"price": "$$$$",
+		"distance": 13.6,
+		"rating": 3.3,
+		"images": [
+			"image_10",
+			"image_14",
+			"image_12",
+			"image_7"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Savory Dock",
+		"address": "Jl. Tenang Pelangi No. 25",
+		"price": "$",
+		"distance": 14.9,
+		"rating": 2.8,
+		"images": [
+			"image_2",
+			"image_6",
+			"image_12",
+			"image_8"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Fire Pit",
+		"address": "Jl. Lembut Hijau No. 6",
+		"price": "$",
+		"distance": 14.9,
+		"rating": 2.4,
+		"images": [
+			"image_15",
+			"image_14",
+			"image_20",
+			"image_4"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Spicy Joint",
+		"address": "Jl. Warna Ombak No. 1",
+		"price": "$",
+		"distance": 14.5,
+		"rating": 0.3,
+		"images": [
+			"image_16",
+			"image_17",
+			"image_14",
+			"image_1"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Golden Lounge",
+		"address": "Jl. Sejuk Lembut No. 21",
+		"price": "$",
+		"distance": 14.9,
+		"rating": 0.9,
+		"images": [
+			"image_9",
+			"image_2",
+			"image_15",
+			"image_8"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Bright Dock",
+		"address": "Jl. Makmur Ombak No. 28",
+		"price": "$",
+		"distance": 14.7,
+		"rating": 0.2,
+		"images": [
+			"image_18",
+			"image_17",
+			"image_2",
+			"image_16"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Lotus Table",
+		"address": "Jl. Damai Langit No. 4",
+		"price": "$$",
+		"distance": 14.9,
+		"rating": 1.7,
+		"images": [
+			"image_7",
+			"image_9",
+			"image_5",
+			"image_3"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Paradise Joint",
+		"address": "Jl. Pelangi Terang No. 28",
+		"price": "$$",
+		"distance": 14.1,
+		"rating": 1.8,
+		"images": [
+			"image_17",
+			"image_11",
+			"image_10",
+			"image_6"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Shadow Pit",
+		"address": "Jl. Syukur Warna No. 25",
+		"price": "$$",
+		"distance": 14.5,
+		"rating": 3.4,
+		"images": [
+			"image_16",
+			"image_17",
+			"image_4",
+			"image_20"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Wild Spot",
+		"address": "Jl. Pelangi Syukur No. 1",
+		"price": "$$",
+		"distance": 14.0,
+		"rating": 1.7,
+		"images": [
+			"image_16",
+			"image_8",
+			"image_4",
+			"image_17"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Amber Terrace",
+		"address": "Jl. Bening Gunung No. 20",
+		"price": "$$",
+		"distance": 14.0,
+		"rating": 1.4,
+		"images": [
+			"image_4",
+			"image_17",
+			"image_10",
+			"image_19"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Fire Pit",
+		"address": "Jl. Bening Syukur No. 1",
+		"price": "$$$",
+		"distance": 14.9,
+		"rating": 0.1,
+		"images": [
+			"image_11",
+			"image_18",
+			"image_13",
+			"image_7"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Chili Dining",
+		"address": "Jl. Indah Sinar No. 14",
+		"price": "$$$",
+		"distance": 14.7,
+		"rating": 0.9,
+		"images": [
+			"image_12",
+			"image_19",
+			"image_17",
+			"image_20"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Spicy Dock",
+		"address": "Jl. Sejuk Sejuk No. 5",
+		"price": "$$$",
+		"distance": 15.0,
+		"rating": 3.4,
+		"images": [
+			"image_16",
+			"image_7",
+			"image_14",
+			"image_4"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Velvet Dining",
+		"address": "Jl. Sentosa Sinar No. 12",
+		"price": "$$$",
+		"distance": 14.3,
+		"rating": 1.5,
+		"images": [
+			"image_11",
+			"image_9",
+			"image_4",
+			"image_12"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Chili Kitchen",
+		"address": "Jl. Laut Bayu No. 12",
+		"price": "$$$",
+		"distance": 14.4,
+		"rating": 0.2,
+		"images": [
+			"image_17",
+			"image_10",
+			"image_12",
+			"image_5"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Bloom Dining",
+		"address": "Jl. Sentosa Warna No. 30",
+		"price": "$$$$",
+		"distance": 14.2,
+		"rating": 3.5,
+		"images": [
+			"image_7",
+			"image_9",
+			"image_20",
+			"image_16"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Crystal Joint",
+		"address": "Jl. Hijau Makmur No. 15",
+		"price": "$$$$",
+		"distance": 14.8,
+		"rating": 3.8,
+		"images": [
+			"image_17",
+			"image_10",
+			"image_19",
+			"image_12"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Savory Bar",
+		"address": "Jl. Makmur Sentosa No. 24",
+		"price": "$$$$",
+		"distance": 15.0,
+		"rating": 0.6,
+		"images": [
+			"image_9",
+			"image_18",
+			"image_17",
+			"image_3"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Cozy Palace",
+		"address": "Jl. Terang Gunung No. 20",
+		"price": "$$$$",
+		"distance": 14.1,
+		"rating": 0.5,
+		"images": [
+			"image_18",
+			"image_12",
+			"image_15",
+			"image_2"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Cozy Terrace",
+		"address": "Jl. Bambu Indah No. 23",
+		"price": "$$$$",
+		"distance": 14.5,
+		"rating": 1.1,
+		"images": [
+			"image_20",
+			"image_18",
+			"image_6",
+			"image_4"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Royal Pit",
+		"address": "Jl. Bening Jaya No. 2",
+		"price": "$",
+		"distance": 15.4,
+		"rating": 3.0,
+		"images": [
+			"image_14",
+			"image_20",
+			"image_18",
+			"image_15"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Lazy Spot",
+		"address": "Jl. Terang Damai No. 14",
+		"price": "$",
+		"distance": 15.2,
+		"rating": 0.5,
+		"images": [
+			"image_19",
+			"image_13",
+			"image_10",
+			"image_17"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Velvet Spot",
+		"address": "Jl. Bening Damai No. 4",
+		"price": "$",
+		"distance": 15.2,
+		"rating": 3.9,
+		"images": [
+			"image_20",
+			"image_1",
+			"image_10",
+			"image_17"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Green Corner",
+		"address": "Jl. Sawah Damai No. 2",
+		"price": "$",
+		"distance": 15.9,
+		"rating": 1.5,
+		"images": [
+			"image_14",
+			"image_6",
+			"image_4",
+			"image_17"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Wild Joint",
+		"address": "Jl. Bambu Indah No. 22",
+		"price": "$",
+		"distance": 15.4,
+		"rating": 4.4,
+		"images": [
+			"image_7",
+			"image_19",
+			"image_9",
+			"image_4"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Chili Corner",
+		"address": "Jl. Mentari Gunung No. 10",
+		"price": "$$",
+		"distance": 15.6,
+		"rating": 2.0,
+		"images": [
+			"image_10",
+			"image_8",
+			"image_16",
+			"image_12"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Ocean House",
+		"address": "Jl. Terang Hijau No. 28",
+		"price": "$$",
+		"distance": 15.6,
+		"rating": 3.1,
+		"images": [
+			"image_6",
+			"image_16",
+			"image_19",
+			"image_14"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Rustic Palace",
+		"address": "Jl. Bayu Pelangi No. 25",
+		"price": "$$",
+		"distance": 15.8,
+		"rating": 0.3,
+		"images": [
+			"image_17",
+			"image_2",
+			"image_18",
+			"image_5"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Velvet Corner",
+		"address": "Jl. Putih Terang No. 2",
+		"price": "$$",
+		"distance": 15.6,
+		"rating": 4.0,
+		"images": [
+			"image_11",
+			"image_10",
+			"image_2",
+			"image_1"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Bloom Terrace",
+		"address": "Jl. Terang Laut No. 16",
+		"price": "$$",
+		"distance": 15.9,
+		"rating": 3.5,
+		"images": [
+			"image_1",
+			"image_18",
+			"image_16",
+			"image_6"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Lazy Eatery",
+		"address": "Jl. Bening Lembut No. 11",
+		"price": "$$$",
+		"distance": 15.7,
+		"rating": 2.4,
+		"images": [
+			"image_11",
+			"image_9",
+			"image_1",
+			"image_16"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Velvet Grill",
+		"address": "Jl. Sawah Sawah No. 3",
+		"price": "$$$",
+		"distance": 15.1,
+		"rating": 4.3,
+		"images": [
+			"image_13",
+			"image_8",
+			"image_9",
+			"image_20"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Spicy Deck",
+		"address": "Jl. Indah Laut No. 22",
+		"price": "$$$",
+		"distance": 15.8,
+		"rating": 0.2,
+		"images": [
+			"image_10",
+			"image_13",
+			"image_19",
+			"image_7"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Paradise Hut",
+		"address": "Jl. Mentari Damai No. 26",
+		"price": "$$$",
+		"distance": 15.4,
+		"rating": 4.1,
+		"images": [
+			"image_18",
+			"image_12",
+			"image_20",
+			"image_19"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Bloom Den",
+		"address": "Jl. Bersih Ombak No. 21",
+		"price": "$$$",
+		"distance": 15.7,
+		"rating": 1.0,
+		"images": [
+			"image_9",
+			"image_13",
+			"image_5",
+			"image_4"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Ocean Eatery",
+		"address": "Jl. Hijau Gunung No. 8",
+		"price": "$$$$",
+		"distance": 15.0,
+		"rating": 3.5,
+		"images": [
+			"image_7",
+			"image_17",
+			"image_12",
+			"image_14"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Wild Grill",
+		"address": "Jl. Hijau Mentari No. 3",
+		"price": "$$$$",
+		"distance": 15.8,
+		"rating": 2.5,
+		"images": [
+			"image_16",
+			"image_2",
+			"image_13",
+			"image_10"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Amber Lounge",
+		"address": "Jl. Sejuk Indah No. 30",
+		"price": "$$$$",
+		"distance": 15.7,
+		"rating": 1.8,
+		"images": [
+			"image_14",
+			"image_11",
+			"image_16",
+			"image_6"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Paradise Terrace",
+		"address": "Jl. Bening Terang No. 4",
+		"price": "$$$$",
+		"distance": 15.4,
+		"rating": 4.2,
+		"images": [
+			"image_3",
+			"image_12",
+			"image_11",
+			"image_16"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Lotus Cafe",
+		"address": "Jl. Hijau Sejuk No. 17",
+		"price": "$$$$",
+		"distance": 15.9,
+		"rating": 3.9,
+		"images": [
+			"image_3",
+			"image_18",
+			"image_11",
+			"image_6"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Lazy Hut",
+		"address": "Jl. Putih Lembut No. 24",
+		"price": "$",
+		"distance": 16.9,
+		"rating": 3.4,
+		"images": [
+			"image_8",
+			"image_14",
+			"image_5",
+			"image_1"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Hidden Spot",
+		"address": "Jl. Sejuk Warna No. 5",
+		"price": "$",
+		"distance": 16.3,
+		"rating": 4.3,
+		"images": [
+			"image_3",
+			"image_7",
+			"image_9",
+			"image_12"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Wild Hut",
+		"address": "Jl. Hijau Bambu No. 9",
+		"price": "$",
+		"distance": 16.1,
+		"rating": 4.5,
+		"images": [
+			"image_9",
+			"image_19",
+			"image_12",
+			"image_18"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Paradise Spot",
+		"address": "Jl. Warna Ombak No. 3",
+		"price": "$",
+		"distance": 16.4,
+		"rating": 0.6,
+		"images": [
+			"image_3",
+			"image_1",
+			"image_4",
+			"image_12"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Royal Corner",
+		"address": "Jl. Sentosa Warna No. 3",
+		"price": "$",
+		"distance": 16.7,
+		"rating": 4.0,
+		"images": [
+			"image_19",
+			"image_11",
+			"image_6",
+			"image_7"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Royal Corner",
+		"address": "Jl. Putih Ombak No. 16",
+		"price": "$$",
+		"distance": 16.5,
+		"rating": 1.3,
+		"images": [
+			"image_10",
+			"image_13",
+			"image_17",
+			"image_3"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Rustic Den",
+		"address": "Jl. Sawah Langit No. 12",
+		"price": "$$",
+		"distance": 16.9,
+		"rating": 0.8,
+		"images": [
+			"image_18",
+			"image_1",
+			"image_2",
+			"image_9"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Urban Den",
+		"address": "Jl. Laut Lembut No. 25",
+		"price": "$$",
+		"distance": 16.7,
+		"rating": 0.5,
+		"images": [
+			"image_16",
+			"image_5",
+			"image_18",
+			"image_20"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Lazy Palace",
+		"address": "Jl. Indah Sinar No. 26",
+		"price": "$$",
+		"distance": 16.2,
+		"rating": 1.1,
+		"images": [
+			"image_20",
+			"image_10",
+			"image_6",
+			"image_13"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Golden Deck",
+		"address": "Jl. Sentosa Pelangi No. 22",
+		"price": "$$",
+		"distance": 16.7,
+		"rating": 2.1,
+		"images": [
+			"image_18",
+			"image_14",
+			"image_8",
+			"image_7"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Savory Lounge",
+		"address": "Jl. Gunung Langit No. 10",
+		"price": "$$$",
+		"distance": 17.0,
+		"rating": 2.4,
+		"images": [
+			"image_8",
+			"image_20",
+			"image_14",
+			"image_15"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Chili Dock",
+		"address": "Jl. Langit Pelangi No. 26",
+		"price": "$$$",
+		"distance": 16.6,
+		"rating": 0.4,
+		"images": [
+			"image_8",
+			"image_3",
+			"image_19",
+			"image_18"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Bloom Deck",
+		"address": "Jl. Sinar Bayu No. 11",
+		"price": "$$$",
+		"distance": 16.6,
+		"rating": 3.6,
+		"images": [
+			"image_1",
+			"image_16",
+			"image_7",
+			"image_9"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Golden Bistro",
+		"address": "Jl. Makmur Pelangi No. 1",
+		"price": "$$$",
+		"distance": 16.2,
+		"rating": 4.5,
+		"images": [
+			"image_5",
+			"image_11",
+			"image_9",
+			"image_16"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Jungle Cafe",
+		"address": "Jl. Lembut Sentosa No. 4",
+		"price": "$$$",
+		"distance": 16.9,
+		"rating": 3.3,
+		"images": [
+			"image_18",
+			"image_12",
+			"image_8",
+			"image_13"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Shadow Table",
+		"address": "Jl. Tenang Mentari No. 30",
+		"price": "$$$$",
+		"distance": 16.8,
+		"rating": 4.2,
+		"images": [
+			"image_11",
+			"image_1",
+			"image_19",
+			"image_18"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Golden Palace",
+		"address": "Jl. Laut Mentari No. 14",
+		"price": "$$$$",
+		"distance": 16.9,
+		"rating": 4.0,
+		"images": [
+			"image_9",
+			"image_10",
+			"image_6",
+			"image_11"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Shadow Cafe",
+		"address": "Jl. Terang Sawah No. 19",
+		"price": "$$$$",
+		"distance": 16.8,
+		"rating": 1.7,
+		"images": [
+			"image_20",
+			"image_12",
+			"image_4",
+			"image_19"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Ocean Terrace",
+		"address": "Jl. Bersih Hijau No. 24",
+		"price": "$$$$",
+		"distance": 16.4,
+		"rating": 4.7,
+		"images": [
+			"image_1",
+			"image_4",
+			"image_13",
+			"image_12"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Jungle Grill",
+		"address": "Jl. Ombak Langit No. 16",
+		"price": "$$$$",
+		"distance": 16.9,
+		"rating": 0.9,
+		"images": [
+			"image_17",
+			"image_16",
+			"image_7",
+			"image_15"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Royal Cafe",
+		"address": "Jl. Sejuk Sentosa No. 1",
+		"price": "$",
+		"distance": 17.8,
+		"rating": 2.4,
+		"images": [
+			"image_16",
+			"image_20",
+			"image_17",
+			"image_6"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Spicy House",
+		"address": "Jl. Putih Lembut No. 1",
+		"price": "$",
+		"distance": 17.1,
+		"rating": 0.5,
+		"images": [
+			"image_10",
+			"image_15",
+			"image_14",
+			"image_20"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Lazy Table",
+		"address": "Jl. Hijau Tenang No. 21",
+		"price": "$",
+		"distance": 17.6,
+		"rating": 2.3,
+		"images": [
+			"image_4",
+			"image_11",
+			"image_19",
+			"image_12"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Wild Hut",
+		"address": "Jl. Damai Sejuk No. 8",
+		"price": "$",
+		"distance": 17.8,
+		"rating": 3.3,
+		"images": [
+			"image_13",
+			"image_3",
+			"image_19",
+			"image_6"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Green Pit",
+		"address": "Jl. Sinar Langit No. 5",
+		"price": "$",
+		"distance": 18.0,
+		"rating": 3.9,
+		"images": [
+			"image_8",
+			"image_20",
+			"image_18",
+			"image_5"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Green Bar",
+		"address": "Jl. Syukur Sinar No. 26",
+		"price": "$$",
+		"distance": 17.9,
+		"rating": 3.3,
+		"images": [
+			"image_20",
+			"image_17",
+			"image_14",
+			"image_2"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Tropical Eatery",
+		"address": "Jl. Pelangi Bersih No. 8",
+		"price": "$$",
+		"distance": 17.3,
+		"rating": 3.6,
+		"images": [
+			"image_5",
+			"image_15",
+			"image_20",
+			"image_19"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Golden Grill",
+		"address": "Jl. Syukur Damai No. 22",
+		"price": "$$",
+		"distance": 17.5,
+		"rating": 1.2,
+		"images": [
+			"image_3",
+			"image_7",
+			"image_12",
+			"image_2"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Ocean Cafe",
+		"address": "Jl. Cemerlang Makmur No. 22",
+		"price": "$$",
+		"distance": 17.6,
+		"rating": 1.6,
+		"images": [
+			"image_3",
+			"image_13",
+			"image_9",
+			"image_14"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Velvet Spot",
+		"address": "Jl. Pelangi Sentosa No. 8",
+		"price": "$$",
+		"distance": 17.3,
+		"rating": 3.8,
+		"images": [
+			"image_18",
+			"image_10",
+			"image_12",
+			"image_2"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Tropical Palace",
+		"address": "Jl. Gunung Jaya No. 11",
+		"price": "$$$",
+		"distance": 17.0,
+		"rating": 3.9,
+		"images": [
+			"image_9",
+			"image_6",
+			"image_11",
+			"image_5"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Crystal Corner",
+		"address": "Jl. Bambu Jaya No. 11",
+		"price": "$$$",
+		"distance": 17.6,
+		"rating": 2.3,
+		"images": [
+			"image_5",
+			"image_1",
+			"image_9",
+			"image_17"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Savory Lounge",
+		"address": "Jl. Damai Sejuk No. 4",
+		"price": "$$$",
+		"distance": 17.8,
+		"rating": 0.2,
+		"images": [
+			"image_19",
+			"image_11",
+			"image_15",
+			"image_16"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Bright Terrace",
+		"address": "Jl. Makmur Putih No. 14",
+		"price": "$$$",
+		"distance": 17.2,
+		"rating": 2.2,
+		"images": [
+			"image_18",
+			"image_12",
+			"image_17",
+			"image_15"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Jungle Dock",
+		"address": "Jl. Indah Pelangi No. 9",
+		"price": "$$$",
+		"distance": 17.4,
+		"rating": 0.7,
+		"images": [
+			"image_5",
+			"image_8",
+			"image_3",
+			"image_11"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Amber Deck",
+		"address": "Jl. Langit Cemerlang No. 12",
+		"price": "$$$$",
+		"distance": 17.4,
+		"rating": 1.7,
+		"images": [
+			"image_4",
+			"image_6",
+			"image_11",
+			"image_8"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Wild Palace",
+		"address": "Jl. Sentosa Pelangi No. 16",
+		"price": "$$$$",
+		"distance": 18.0,
+		"rating": 3.4,
+		"images": [
+			"image_18",
+			"image_6",
+			"image_9",
+			"image_3"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Fire Joint",
+		"address": "Jl. Mentari Sentosa No. 27",
+		"price": "$$$$",
+		"distance": 17.3,
+		"rating": 3.5,
+		"images": [
+			"image_13",
+			"image_11",
+			"image_15",
+			"image_2"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Bloom Spot",
+		"address": "Jl. Sawah Lembut No. 24",
+		"price": "$$$$",
+		"distance": 17.3,
+		"rating": 1.3,
+		"images": [
+			"image_17",
+			"image_10",
+			"image_15",
+			"image_18"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Royal Bistro",
+		"address": "Jl. Syukur Sawah No. 14",
+		"price": "$$$$",
+		"distance": 17.6,
+		"rating": 3.0,
+		"images": [
+			"image_14",
+			"image_4",
+			"image_7",
+			"image_15"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Urban Corner",
+		"address": "Jl. Ombak Bayu No. 5",
+		"price": "$",
+		"distance": 18.1,
+		"rating": 2.2,
+		"images": [
+			"image_14",
+			"image_18",
+			"image_4",
+			"image_10"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Lotus Deck",
+		"address": "Jl. Langit Makmur No. 24",
+		"price": "$",
+		"distance": 18.2,
+		"rating": 3.0,
+		"images": [
+			"image_18",
+			"image_11",
+			"image_1",
+			"image_9"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Paradise Eatery",
+		"address": "Jl. Cemerlang Putih No. 26",
+		"price": "$",
+		"distance": 18.4,
+		"rating": 4.3,
+		"images": [
+			"image_13",
+			"image_4",
+			"image_10",
+			"image_1"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Ocean Dock",
+		"address": "Jl. Gunung Laut No. 20",
+		"price": "$",
+		"distance": 18.1,
+		"rating": 0.4,
+		"images": [
+			"image_8",
+			"image_13",
+			"image_19",
+			"image_2"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Urban Den",
+		"address": "Jl. Gunung Lembut No. 3",
+		"price": "$",
+		"distance": 18.6,
+		"rating": 3.5,
+		"images": [
+			"image_15",
+			"image_2",
+			"image_17",
+			"image_6"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Velvet Dining",
+		"address": "Jl. Damai Langit No. 24",
+		"price": "$$",
+		"distance": 18.9,
+		"rating": 3.6,
+		"images": [
+			"image_8",
+			"image_11",
+			"image_9",
+			"image_4"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Jungle Table",
+		"address": "Jl. Cemerlang Bayu No. 15",
+		"price": "$$",
+		"distance": 18.8,
+		"rating": 0.4,
+		"images": [
+			"image_9",
+			"image_16",
+			"image_17",
+			"image_7"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Urban Spot",
+		"address": "Jl. Laut Bersih No. 4",
+		"price": "$$",
+		"distance": 18.1,
+		"rating": 1.5,
+		"images": [
+			"image_1",
+			"image_10",
+			"image_4",
+			"image_2"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Bloom Hut",
+		"address": "Jl. Tenang Indah No. 29",
+		"price": "$$",
+		"distance": 18.9,
+		"rating": 0.9,
+		"images": [
+			"image_16",
+			"image_5",
+			"image_2",
+			"image_18"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Tropical Bar",
+		"address": "Jl. Bersih Sejuk No. 20",
+		"price": "$$",
+		"distance": 18.9,
+		"rating": 1.5,
+		"images": [
+			"image_12",
+			"image_16",
+			"image_2",
+			"image_19"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Jungle Hut",
+		"address": "Jl. Ombak Mentari No. 20",
+		"price": "$$$",
+		"distance": 18.6,
+		"rating": 1.6,
+		"images": [
+			"image_2",
+			"image_5",
+			"image_8",
+			"image_12"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Fire Joint",
+		"address": "Jl. Pelangi Indah No. 1",
+		"price": "$$$",
+		"distance": 19.0,
+		"rating": 4.3,
+		"images": [
+			"image_17",
+			"image_14",
+			"image_16",
+			"image_6"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Crystal Palace",
+		"address": "Jl. Cemerlang Cemerlang No. 30",
+		"price": "$$$",
+		"distance": 18.9,
+		"rating": 3.4,
+		"images": [
+			"image_14",
+			"image_11",
+			"image_1",
+			"image_10"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Lazy Den",
+		"address": "Jl. Sawah Bambu No. 5",
+		"price": "$$$",
+		"distance": 18.5,
+		"rating": 1.4,
+		"images": [
+			"image_6",
+			"image_20",
+			"image_4",
+			"image_1"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Bloom Dock",
+		"address": "Jl. Warna Hijau No. 9",
+		"price": "$$$",
+		"distance": 18.6,
+		"rating": 1.7,
+		"images": [
+			"image_18",
+			"image_5",
+			"image_8",
+			"image_11"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Amber House",
+		"address": "Jl. Mentari Ombak No. 5",
+		"price": "$$$$",
+		"distance": 18.8,
+		"rating": 1.2,
+		"images": [
+			"image_3",
+			"image_19",
+			"image_11",
+			"image_12"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Lotus Joint",
+		"address": "Jl. Ombak Jaya No. 11",
+		"price": "$$$$",
+		"distance": 18.3,
+		"rating": 2.5,
+		"images": [
+			"image_10",
+			"image_3",
+			"image_2",
+			"image_20"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Bloom House",
+		"address": "Jl. Damai Laut No. 24",
+		"price": "$$$$",
+		"distance": 18.6,
+		"rating": 2.3,
+		"images": [
+			"image_8",
+			"image_11",
+			"image_16",
+			"image_13"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Shadow Eatery",
+		"address": "Jl. Tenang Ombak No. 30",
+		"price": "$$$$",
+		"distance": 18.8,
+		"rating": 3.6,
+		"images": [
+			"image_10",
+			"image_2",
+			"image_3",
+			"image_9"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Jungle Bar",
+		"address": "Jl. Bersih Bayu No. 8",
+		"price": "$$$$",
+		"distance": 18.8,
+		"rating": 2.3,
+		"images": [
+			"image_6",
+			"image_15",
+			"image_3",
+			"image_13"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Urban Bistro",
+		"address": "Jl. Bersih Lembut No. 19",
+		"price": "$",
+		"distance": 19.5,
+		"rating": 0.4,
+		"images": [
+			"image_15",
+			"image_12",
+			"image_20",
+			"image_3"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Fire Pit",
+		"address": "Jl. Hijau Bambu No. 29",
+		"price": "$",
+		"distance": 19.1,
+		"rating": 1.5,
+		"images": [
+			"image_3",
+			"image_17",
+			"image_1",
+			"image_4"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Lotus Table",
+		"address": "Jl. Bambu Syukur No. 27",
+		"price": "$",
+		"distance": 19.4,
+		"rating": 2.9,
+		"images": [
+			"image_17",
+			"image_12",
+			"image_1",
+			"image_11"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Lazy Deck",
+		"address": "Jl. Tenang Bersih No. 1",
+		"price": "$",
+		"distance": 19.8,
+		"rating": 1.6,
+		"images": [
+			"image_2",
+			"image_16",
+			"image_7",
+			"image_17"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Fire Bar",
+		"address": "Jl. Sejuk Damai No. 12",
+		"price": "$",
+		"distance": 19.3,
+		"rating": 3.2,
+		"images": [
+			"image_8",
+			"image_6",
+			"image_4",
+			"image_9"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Royal Bar",
+		"address": "Jl. Ombak Langit No. 4",
+		"price": "$$",
+		"distance": 19.8,
+		"rating": 2.7,
+		"images": [
+			"image_14",
+			"image_16",
+			"image_2",
+			"image_15"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Urban Corner",
+		"address": "Jl. Pelangi Bayu No. 25",
+		"price": "$$",
+		"distance": 19.5,
+		"rating": 4.1,
+		"images": [
+			"image_4",
+			"image_10",
+			"image_6",
+			"image_16"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Urban Deck",
+		"address": "Jl. Putih Sawah No. 6",
+		"price": "$$",
+		"distance": 19.1,
+		"rating": 2.0,
+		"images": [
+			"image_20",
+			"image_12",
+			"image_6",
+			"image_9"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Cozy Deck",
+		"address": "Jl. Ombak Jaya No. 29",
+		"price": "$$",
+		"distance": 19.3,
+		"rating": 1.4,
+		"images": [
+			"image_8",
+			"image_14",
+			"image_3",
+			"image_7"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Rustic Hut",
+		"address": "Jl. Bambu Mentari No. 12",
+		"price": "$$",
+		"distance": 19.3,
+		"rating": 2.1,
+		"images": [
+			"image_7",
+			"image_16",
+			"image_2",
+			"image_18"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Lazy Kitchen",
+		"address": "Jl. Ombak Sentosa No. 16",
+		"price": "$$$",
+		"distance": 19.6,
+		"rating": 1.2,
+		"images": [
+			"image_7",
+			"image_11",
+			"image_16",
+			"image_2"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Wild Dock",
+		"address": "Jl. Bening Sentosa No. 29",
+		"price": "$$$",
+		"distance": 19.6,
+		"rating": 4.6,
+		"images": [
+			"image_6",
+			"image_7",
+			"image_17",
+			"image_18"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Urban Kitchen",
+		"address": "Jl. Sentosa Sawah No. 17",
+		"price": "$$$",
+		"distance": 19.8,
+		"rating": 1.5,
+		"images": [
+			"image_2",
+			"image_20",
+			"image_8",
+			"image_19"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Paradise Eatery",
+		"address": "Jl. Lembut Damai No. 29",
+		"price": "$$$",
+		"distance": 19.5,
+		"rating": 3.0,
+		"images": [
+			"image_20",
+			"image_10",
+			"image_1",
+			"image_18"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Green Bistro",
+		"address": "Jl. Bersih Lembut No. 21",
+		"price": "$$$",
+		"distance": 19.2,
+		"rating": 2.1,
+		"images": [
+			"image_2",
+			"image_11",
+			"image_5",
+			"image_4"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Royal Table",
+		"address": "Jl. Sinar Jaya No. 11",
+		"price": "$$$$",
+		"distance": 19.1,
+		"rating": 0.0,
+		"images": [
+			"image_9",
+			"image_14",
+			"image_19",
+			"image_1"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Sunset Pit",
+		"address": "Jl. Sejuk Mentari No. 29",
+		"price": "$$$$",
+		"distance": 19.6,
+		"rating": 1.8,
+		"images": [
+			"image_17",
+			"image_8",
+			"image_12",
+			"image_7"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Urban Dock",
+		"address": "Jl. Pelangi Syukur No. 15",
+		"price": "$$$$",
+		"distance": 19.1,
+		"rating": 0.8,
+		"images": [
+			"image_11",
+			"image_3",
+			"image_6",
+			"image_2"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Shadow Joint",
+		"address": "Jl. Tenang Sentosa No. 19",
+		"price": "$$$$",
+		"distance": 19.4,
+		"rating": 4.9,
+		"images": [
+			"image_2",
+			"image_1",
+			"image_14",
+			"image_19"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Lotus Dining",
+		"address": "Jl. Terang Sentosa No. 15",
+		"price": "$$$$",
+		"distance": 19.3,
+		"rating": 4.2,
+		"images": [
+			"image_19",
+			"image_17",
+			"image_9",
+			"image_14"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Shadow Eatery",
+		"address": "Jl. Indah Putih No. 30",
+		"price": "$",
+		"distance": 20.1,
+		"rating": 4.5,
+		"images": [
+			"image_16",
+			"image_19",
+			"image_9",
+			"image_2"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Crystal Bar",
+		"address": "Jl. Terang Langit No. 13",
+		"price": "$",
+		"distance": 20.9,
+		"rating": 3.5,
+		"images": [
+			"image_3",
+			"image_17",
+			"image_15",
+			"image_10"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Shadow Deck",
+		"address": "Jl. Bening Mentari No. 5",
+		"price": "$",
+		"distance": 20.2,
+		"rating": 1.6,
+		"images": [
+			"image_5",
+			"image_14",
+			"image_1",
+			"image_9"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Savory Hut",
+		"address": "Jl. Ombak Jaya No. 12",
+		"price": "$",
+		"distance": 20.1,
+		"rating": 2.8,
+		"images": [
+			"image_11",
+			"image_10",
+			"image_1",
+			"image_19"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Wild Cafe",
+		"address": "Jl. Bambu Tenang No. 15",
+		"price": "$",
+		"distance": 20.9,
+		"rating": 1.2,
+		"images": [
+			"image_10",
+			"image_9",
+			"image_6",
+			"image_17"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Velvet Bistro",
+		"address": "Jl. Putih Hijau No. 12",
+		"price": "$$",
+		"distance": 20.9,
+		"rating": 2.8,
+		"images": [
+			"image_13",
+			"image_19",
+			"image_20",
+			"image_5"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Chili Den",
+		"address": "Jl. Sejuk Bening No. 1",
+		"price": "$$",
+		"distance": 20.5,
+		"rating": 2.8,
+		"images": [
+			"image_8",
+			"image_13",
+			"image_2",
+			"image_19"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Wild Grill",
+		"address": "Jl. Bayu Tenang No. 24",
+		"price": "$$",
+		"distance": 20.3,
+		"rating": 3.5,
+		"images": [
+			"image_15",
+			"image_11",
+			"image_4",
+			"image_13"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Hidden Spot",
+		"address": "Jl. Sentosa Bambu No. 18",
+		"price": "$$",
+		"distance": 20.9,
+		"rating": 1.6,
+		"images": [
+			"image_11",
+			"image_10",
+			"image_9",
+			"image_4"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Hidden Bar",
+		"address": "Jl. Bayu Makmur No. 15",
+		"price": "$$",
+		"distance": 20.8,
+		"rating": 4.1,
+		"images": [
+			"image_6",
+			"image_4",
+			"image_2",
+			"image_9"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Lazy Pit",
+		"address": "Jl. Jaya Indah No. 6",
+		"price": "$$$",
+		"distance": 20.7,
+		"rating": 0.2,
+		"images": [
+			"image_9",
+			"image_13",
+			"image_4",
+			"image_1"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Cozy Dining",
+		"address": "Jl. Bersih Laut No. 16",
+		"price": "$$$",
+		"distance": 20.8,
+		"rating": 2.2,
+		"images": [
+			"image_10",
+			"image_12",
+			"image_11",
+			"image_3"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Crystal Bar",
+		"address": "Jl. Bening Tenang No. 6",
+		"price": "$$$",
+		"distance": 20.8,
+		"rating": 3.5,
+		"images": [
+			"image_7",
+			"image_13",
+			"image_15",
+			"image_12"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Jungle Table",
+		"address": "Jl. Sejuk Bambu No. 26",
+		"price": "$$$",
+		"distance": 20.1,
+		"rating": 3.5,
+		"images": [
+			"image_8",
+			"image_18",
+			"image_14",
+			"image_16"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Amber Terrace",
+		"address": "Jl. Mentari Bambu No. 19",
+		"price": "$$$",
+		"distance": 20.1,
+		"rating": 4.4,
+		"images": [
+			"image_1",
+			"image_12",
+			"image_5",
+			"image_3"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Fire House",
+		"address": "Jl. Bayu Sawah No. 4",
+		"price": "$$$$",
+		"distance": 20.7,
+		"rating": 3.8,
+		"images": [
+			"image_2",
+			"image_7",
+			"image_6",
+			"image_8"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Jungle Bar",
+		"address": "Jl. Terang Langit No. 4",
+		"price": "$$$$",
+		"distance": 20.9,
+		"rating": 2.8,
+		"images": [
+			"image_19",
+			"image_7",
+			"image_5",
+			"image_4"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Lotus Table",
+		"address": "Jl. Gunung Hijau No. 13",
+		"price": "$$$$",
+		"distance": 20.5,
+		"rating": 1.4,
+		"images": [
+			"image_4",
+			"image_9",
+			"image_5",
+			"image_17"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Sunset Deck",
+		"address": "Jl. Bersih Sinar No. 9",
+		"price": "$$$$",
+		"distance": 20.2,
+		"rating": 4.1,
+		"images": [
+			"image_13",
+			"image_1",
+			"image_7",
+			"image_17"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Cozy Bistro",
+		"address": "Jl. Cemerlang Putih No. 23",
+		"price": "$$$$",
+		"distance": 20.1,
+		"rating": 4.4,
+		"images": [
+			"image_1",
+			"image_11",
+			"image_14",
+			"image_3"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Amber Bistro",
+		"address": "Jl. Cemerlang Damai No. 30",
+		"price": "$",
+		"distance": 21.1,
+		"rating": 0.3,
+		"images": [
+			"image_11",
+			"image_14",
+			"image_15",
+			"image_1"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Paradise Den",
+		"address": "Jl. Bayu Mentari No. 8",
+		"price": "$",
+		"distance": 21.4,
+		"rating": 3.4,
+		"images": [
+			"image_8",
+			"image_2",
+			"image_13",
+			"image_7"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Amber Hut",
+		"address": "Jl. Lembut Gunung No. 6",
+		"price": "$",
+		"distance": 21.1,
+		"rating": 3.5,
+		"images": [
+			"image_12",
+			"image_19",
+			"image_1",
+			"image_9"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Chili House",
+		"address": "Jl. Lembut Sentosa No. 1",
+		"price": "$",
+		"distance": 21.3,
+		"rating": 2.6,
+		"images": [
+			"image_15",
+			"image_11",
+			"image_13",
+			"image_1"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Rustic Grill",
+		"address": "Jl. Indah Terang No. 22",
+		"price": "$",
+		"distance": 21.5,
+		"rating": 4.8,
+		"images": [
+			"image_18",
+			"image_12",
+			"image_19",
+			"image_7"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Lazy Palace",
+		"address": "Jl. Warna Lembut No. 26",
+		"price": "$$",
+		"distance": 21.0,
+		"rating": 0.9,
+		"images": [
+			"image_20",
+			"image_2",
+			"image_3",
+			"image_18"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Fire Bistro",
+		"address": "Jl. Jaya Sawah No. 12",
+		"price": "$$",
+		"distance": 21.5,
+		"rating": 0.4,
+		"images": [
+			"image_15",
+			"image_9",
+			"image_19",
+			"image_5"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Green Dock",
+		"address": "Jl. Gunung Terang No. 5",
+		"price": "$$",
+		"distance": 21.5,
+		"rating": 2.5,
+		"images": [
+			"image_18",
+			"image_7",
+			"image_5",
+			"image_16"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Savory Palace",
+		"address": "Jl. Gunung Bambu No. 17",
+		"price": "$$",
+		"distance": 21.7,
+		"rating": 3.5,
+		"images": [
+			"image_6",
+			"image_2",
+			"image_14",
+			"image_9"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Fire Den",
+		"address": "Jl. Warna Warna No. 4",
+		"price": "$$",
+		"distance": 21.7,
+		"rating": 1.6,
+		"images": [
+			"image_4",
+			"image_8",
+			"image_12",
+			"image_16"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Bright Deck",
+		"address": "Jl. Langit Hijau No. 11",
+		"price": "$$$",
+		"distance": 21.8,
+		"rating": 4.0,
+		"images": [
+			"image_9",
+			"image_2",
+			"image_1",
+			"image_3"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Bloom Grill",
+		"address": "Jl. Sejuk Laut No. 27",
+		"price": "$$$",
+		"distance": 21.4,
+		"rating": 1.5,
+		"images": [
+			"image_4",
+			"image_16",
+			"image_13",
+			"image_2"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Royal Terrace",
+		"address": "Jl. Laut Tenang No. 22",
+		"price": "$$$",
+		"distance": 21.9,
+		"rating": 3.3,
+		"images": [
+			"image_16",
+			"image_5",
+			"image_13",
+			"image_11"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Golden Cafe",
+		"address": "Jl. Bambu Sinar No. 21",
+		"price": "$$$",
+		"distance": 21.4,
+		"rating": 3.2,
+		"images": [
+			"image_12",
+			"image_10",
+			"image_6",
+			"image_9"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Savory Eatery",
+		"address": "Jl. Langit Syukur No. 11",
+		"price": "$$$",
+		"distance": 21.4,
+		"rating": 3.8,
+		"images": [
+			"image_17",
+			"image_19",
+			"image_20",
+			"image_15"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Ocean Corner",
+		"address": "Jl. Sawah Damai No. 27",
+		"price": "$$$$",
+		"distance": 21.0,
+		"rating": 3.4,
+		"images": [
+			"image_13",
+			"image_12",
+			"image_1",
+			"image_9"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Green Spot",
+		"address": "Jl. Bambu Terang No. 21",
+		"price": "$$$$",
+		"distance": 21.8,
+		"rating": 3.2,
+		"images": [
+			"image_5",
+			"image_14",
+			"image_8",
+			"image_6"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Fire Joint",
+		"address": "Jl. Ombak Bambu No. 5",
+		"price": "$$$$",
+		"distance": 21.7,
+		"rating": 4.8,
+		"images": [
+			"image_15",
+			"image_1",
+			"image_19",
+			"image_9"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Cozy Lounge",
+		"address": "Jl. Bersih Bersih No. 18",
+		"price": "$$$$",
+		"distance": 21.8,
+		"rating": 0.3,
+		"images": [
+			"image_2",
+			"image_6",
+			"image_17",
+			"image_9"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Sunset Dock",
+		"address": "Jl. Bening Laut No. 4",
+		"price": "$$$$",
+		"distance": 21.2,
+		"rating": 0.4,
+		"images": [
+			"image_11",
+			"image_14",
+			"image_13",
+			"image_4"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Sunset House",
+		"address": "Jl. Bambu Makmur No. 27",
+		"price": "$",
+		"distance": 22.4,
+		"rating": 2.8,
+		"images": [
+			"image_10",
+			"image_18",
+			"image_8",
+			"image_11"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Spicy Dining",
+		"address": "Jl. Terang Laut No. 5",
+		"price": "$",
+		"distance": 22.7,
+		"rating": 0.8,
+		"images": [
+			"image_8",
+			"image_4",
+			"image_5",
+			"image_15"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Sunset Lounge",
+		"address": "Jl. Tenang Putih No. 19",
+		"price": "$",
+		"distance": 22.6,
+		"rating": 3.8,
+		"images": [
+			"image_10",
+			"image_8",
+			"image_5",
+			"image_9"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Lazy Spot",
+		"address": "Jl. Mentari Laut No. 8",
+		"price": "$",
+		"distance": 22.1,
+		"rating": 1.6,
+		"images": [
+			"image_19",
+			"image_6",
+			"image_12",
+			"image_4"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Lotus Dining",
+		"address": "Jl. Warna Putih No. 30",
+		"price": "$",
+		"distance": 22.8,
+		"rating": 3.8,
+		"images": [
+			"image_6",
+			"image_14",
+			"image_3",
+			"image_20"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Rustic Table",
+		"address": "Jl. Ombak Terang No. 17",
+		"price": "$$",
+		"distance": 23.0,
+		"rating": 0.2,
+		"images": [
+			"image_18",
+			"image_17",
+			"image_2",
+			"image_7"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Urban Dock",
+		"address": "Jl. Sawah Damai No. 21",
+		"price": "$$",
+		"distance": 22.5,
+		"rating": 0.4,
+		"images": [
+			"image_14",
+			"image_19",
+			"image_6",
+			"image_5"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Jungle Eatery",
+		"address": "Jl. Sinar Pelangi No. 25",
+		"price": "$$",
+		"distance": 22.1,
+		"rating": 3.7,
+		"images": [
+			"image_10",
+			"image_17",
+			"image_1",
+			"image_4"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Sunset Spot",
+		"address": "Jl. Sawah Gunung No. 28",
+		"price": "$$",
+		"distance": 22.9,
+		"rating": 0.7,
+		"images": [
+			"image_19",
+			"image_7",
+			"image_10",
+			"image_17"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Lazy Deck",
+		"address": "Jl. Gunung Sawah No. 19",
+		"price": "$$",
+		"distance": 22.7,
+		"rating": 4.3,
+		"images": [
+			"image_5",
+			"image_15",
+			"image_16",
+			"image_17"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Royal Deck",
+		"address": "Jl. Indah Indah No. 13",
+		"price": "$$$",
+		"distance": 23.0,
+		"rating": 3.8,
+		"images": [
+			"image_11",
+			"image_6",
+			"image_1",
+			"image_19"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Shadow Kitchen",
+		"address": "Jl. Syukur Mentari No. 15",
+		"price": "$$$",
+		"distance": 22.1,
+		"rating": 2.9,
+		"images": [
+			"image_10",
+			"image_9",
+			"image_14",
+			"image_6"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Sunset Table",
+		"address": "Jl. Bening Bayu No. 26",
+		"price": "$$$",
+		"distance": 22.5,
+		"rating": 4.0,
+		"images": [
+			"image_12",
+			"image_20",
+			"image_15",
+			"image_11"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Shadow Table",
+		"address": "Jl. Putih Pelangi No. 21",
+		"price": "$$$",
+		"distance": 22.8,
+		"rating": 4.2,
+		"images": [
+			"image_13",
+			"image_2",
+			"image_20",
+			"image_16"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Tropical Joint",
+		"address": "Jl. Gunung Cemerlang No. 25",
+		"price": "$$$",
+		"distance": 22.8,
+		"rating": 1.8,
+		"images": [
+			"image_6",
+			"image_9",
+			"image_10",
+			"image_11"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Royal Bistro",
+		"address": "Jl. Sawah Hijau No. 3",
+		"price": "$$$$",
+		"distance": 22.6,
+		"rating": 0.7,
+		"images": [
+			"image_11",
+			"image_19",
+			"image_15",
+			"image_12"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Velvet Den",
+		"address": "Jl. Syukur Lembut No. 29",
+		"price": "$$$$",
+		"distance": 22.4,
+		"rating": 1.5,
+		"images": [
+			"image_15",
+			"image_19",
+			"image_7",
+			"image_5"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Lazy Spot",
+		"address": "Jl. Jaya Hijau No. 24",
+		"price": "$$$$",
+		"distance": 22.2,
+		"rating": 0.1,
+		"images": [
+			"image_18",
+			"image_16",
+			"image_13",
+			"image_20"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Cozy Cafe",
+		"address": "Jl. Tenang Lembut No. 16",
+		"price": "$$$$",
+		"distance": 22.1,
+		"rating": 2.7,
+		"images": [
+			"image_9",
+			"image_7",
+			"image_19",
+			"image_15"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Crystal Deck",
+		"address": "Jl. Ombak Sejuk No. 11",
+		"price": "$$$$",
+		"distance": 22.5,
+		"rating": 3.0,
+		"images": [
+			"image_13",
+			"image_12",
+			"image_19",
+			"image_2"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Velvet Pit",
+		"address": "Jl. Sawah Cemerlang No. 21",
+		"price": "$",
+		"distance": 23.8,
+		"rating": 4.6,
+		"images": [
+			"image_12",
+			"image_11",
+			"image_1",
+			"image_4"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Crystal Den",
+		"address": "Jl. Bayu Langit No. 18",
+		"price": "$",
+		"distance": 23.4,
+		"rating": 1.2,
+		"images": [
+			"image_7",
+			"image_15",
+			"image_16",
+			"image_13"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Savory Pit",
+		"address": "Jl. Bayu Putih No. 16",
+		"price": "$",
+		"distance": 23.1,
+		"rating": 1.5,
+		"images": [
+			"image_16",
+			"image_3",
+			"image_10",
+			"image_19"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Urban Eatery",
+		"address": "Jl. Indah Gunung No. 9",
+		"price": "$",
+		"distance": 23.6,
+		"rating": 4.7,
+		"images": [
+			"image_10",
+			"image_14",
+			"image_16",
+			"image_3"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Green Den",
+		"address": "Jl. Damai Gunung No. 27",
+		"price": "$",
+		"distance": 23.7,
+		"rating": 1.3,
+		"images": [
+			"image_9",
+			"image_3",
+			"image_2",
+			"image_16"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Hidden Eatery",
+		"address": "Jl. Mentari Bersih No. 14",
+		"price": "$$",
+		"distance": 24.0,
+		"rating": 2.6,
+		"images": [
+			"image_2",
+			"image_14",
+			"image_3",
+			"image_6"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Spicy Hut",
+		"address": "Jl. Bayu Langit No. 24",
+		"price": "$$",
+		"distance": 23.3,
+		"rating": 3.5,
+		"images": [
+			"image_17",
+			"image_7",
+			"image_16",
+			"image_12"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Hidden Bistro",
+		"address": "Jl. Cemerlang Lembut No. 22",
+		"price": "$$",
+		"distance": 23.0,
+		"rating": 3.5,
+		"images": [
+			"image_11",
+			"image_17",
+			"image_18",
+			"image_16"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Urban Table",
+		"address": "Jl. Bayu Indah No. 8",
+		"price": "$$",
+		"distance": 23.6,
+		"rating": 3.5,
+		"images": [
+			"image_14",
+			"image_11",
+			"image_9",
+			"image_18"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Shadow Kitchen",
+		"address": "Jl. Ombak Sawah No. 21",
+		"price": "$$",
+		"distance": 23.6,
+		"rating": 0.8,
+		"images": [
+			"image_17",
+			"image_4",
+			"image_1",
+			"image_6"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Amber Lounge",
+		"address": "Jl. Hijau Sinar No. 28",
+		"price": "$$$",
+		"distance": 23.9,
+		"rating": 3.0,
+		"images": [
+			"image_4",
+			"image_9",
+			"image_19",
+			"image_6"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Paradise Grill",
+		"address": "Jl. Sentosa Bersih No. 14",
+		"price": "$$$",
+		"distance": 23.7,
+		"rating": 4.3,
+		"images": [
+			"image_11",
+			"image_17",
+			"image_8",
+			"image_13"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Chili Palace",
+		"address": "Jl. Sinar Mentari No. 27",
+		"price": "$$$",
+		"distance": 23.7,
+		"rating": 1.8,
+		"images": [
+			"image_18",
+			"image_6",
+			"image_19",
+			"image_14"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Crystal Lounge",
+		"address": "Jl. Bayu Damai No. 25",
+		"price": "$$$",
+		"distance": 23.1,
+		"rating": 4.0,
+		"images": [
+			"image_11",
+			"image_4",
+			"image_1",
+			"image_12"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Royal Lounge",
+		"address": "Jl. Sentosa Lembut No. 4",
+		"price": "$$$",
+		"distance": 23.4,
+		"rating": 3.2,
+		"images": [
+			"image_9",
+			"image_15",
+			"image_11",
+			"image_13"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Lotus Pit",
+		"address": "Jl. Sentosa Bening No. 27",
+		"price": "$$$$",
+		"distance": 23.7,
+		"rating": 1.3,
+		"images": [
+			"image_20",
+			"image_11",
+			"image_13",
+			"image_3"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Amber Eatery",
+		"address": "Jl. Damai Lembut No. 11",
+		"price": "$$$$",
+		"distance": 23.4,
+		"rating": 3.0,
+		"images": [
+			"image_17",
+			"image_8",
+			"image_19",
+			"image_2"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Ocean Corner",
+		"address": "Jl. Laut Sawah No. 3",
+		"price": "$$$$",
+		"distance": 23.8,
+		"rating": 0.3,
+		"images": [
+			"image_18",
+			"image_13",
+			"image_8",
+			"image_10"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Lazy Hut",
+		"address": "Jl. Tenang Lembut No. 15",
+		"price": "$$$$",
+		"distance": 23.9,
+		"rating": 1.2,
+		"images": [
+			"image_9",
+			"image_12",
+			"image_13",
+			"image_7"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Fire Bistro",
+		"address": "Jl. Bening Bambu No. 14",
+		"price": "$$$$",
+		"distance": 23.8,
+		"rating": 2.1,
+		"images": [
+			"image_4",
+			"image_19",
+			"image_9",
+			"image_11"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Golden Bistro",
+		"address": "Jl. Makmur Sawah No. 10",
+		"price": "$",
+		"distance": 24.2,
+		"rating": 4.5,
+		"images": [
+			"image_18",
+			"image_20",
+			"image_9",
+			"image_10"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Wild Hut",
+		"address": "Jl. Pelangi Sentosa No. 1",
+		"price": "$",
+		"distance": 24.0,
+		"rating": 0.9,
+		"images": [
+			"image_6",
+			"image_12",
+			"image_15",
+			"image_14"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Rustic Kitchen",
+		"address": "Jl. Terang Putih No. 7",
+		"price": "$",
+		"distance": 24.5,
+		"rating": 2.3,
+		"images": [
+			"image_12",
+			"image_1",
+			"image_6",
+			"image_4"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Crystal Palace",
+		"address": "Jl. Sentosa Warna No. 1",
+		"price": "$",
+		"distance": 24.6,
+		"rating": 2.3,
+		"images": [
+			"image_4",
+			"image_15",
+			"image_10",
+			"image_18"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Golden Deck",
+		"address": "Jl. Hijau Pelangi No. 16",
+		"price": "$",
+		"distance": 25.0,
+		"rating": 4.7,
+		"images": [
+			"image_6",
+			"image_4",
+			"image_14",
+			"image_17"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Spicy Eatery",
+		"address": "Jl. Ombak Bayu No. 27",
+		"price": "$$",
+		"distance": 24.7,
+		"rating": 1.2,
+		"images": [
+			"image_1",
+			"image_7",
+			"image_19",
+			"image_9"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Tropical Hut",
+		"address": "Jl. Makmur Pelangi No. 13",
+		"price": "$$",
+		"distance": 24.0,
+		"rating": 1.7,
+		"images": [
+			"image_3",
+			"image_14",
+			"image_12",
+			"image_4"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Savory Table",
+		"address": "Jl. Laut Cemerlang No. 27",
+		"price": "$$",
+		"distance": 24.8,
+		"rating": 0.0,
+		"images": [
+			"image_18",
+			"image_6",
+			"image_17",
+			"image_2"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Sunset Bar",
+		"address": "Jl. Terang Syukur No. 29",
+		"price": "$$",
+		"distance": 24.8,
+		"rating": 3.4,
+		"images": [
+			"image_2",
+			"image_16",
+			"image_6",
+			"image_12"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Crystal Spot",
+		"address": "Jl. Putih Mentari No. 10",
+		"price": "$$",
+		"distance": 24.7,
+		"rating": 4.2,
+		"images": [
+			"image_16",
+			"image_10",
+			"image_8",
+			"image_4"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Bloom Eatery",
+		"address": "Jl. Putih Lembut No. 4",
+		"price": "$$$",
+		"distance": 24.0,
+		"rating": 1.9,
+		"images": [
+			"image_5",
+			"image_13",
+			"image_14",
+			"image_20"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Jungle Grill",
+		"address": "Jl. Bambu Makmur No. 24",
+		"price": "$$$",
+		"distance": 24.2,
+		"rating": 1.6,
+		"images": [
+			"image_8",
+			"image_11",
+			"image_20",
+			"image_2"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Hidden Dock",
+		"address": "Jl. Bersih Bambu No. 5",
+		"price": "$$$",
+		"distance": 24.0,
+		"rating": 1.4,
+		"images": [
+			"image_2",
+			"image_17",
+			"image_8",
+			"image_9"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Wild Den",
+		"address": "Jl. Langit Jaya No. 16",
+		"price": "$$$",
+		"distance": 24.0,
+		"rating": 0.0,
+		"images": [
+			"image_8",
+			"image_14",
+			"image_17",
+			"image_19"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Golden Hut",
+		"address": "Jl. Sejuk Sejuk No. 20",
+		"price": "$$$",
+		"distance": 24.6,
+		"rating": 0.3,
+		"images": [
+			"image_19",
+			"image_16",
+			"image_4",
+			"image_10"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Chili Spot",
+		"address": "Jl. Terang Bambu No. 2",
+		"price": "$$$$",
+		"distance": 24.8,
+		"rating": 3.4,
+		"images": [
+			"image_10",
+			"image_15",
+			"image_17",
+			"image_18"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Sunset House",
+		"address": "Jl. Putih Sinar No. 12",
+		"price": "$$$$",
+		"distance": 24.1,
+		"rating": 4.6,
+		"images": [
+			"image_19",
+			"image_17",
+			"image_10",
+			"image_14"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Sunset Grill",
+		"address": "Jl. Sejuk Lembut No. 21",
+		"price": "$$$$",
+		"distance": 24.7,
+		"rating": 3.6,
+		"images": [
+			"image_14",
+			"image_17",
+			"image_2",
+			"image_6"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Silent Bar",
+		"address": "Jl. Sinar Langit No. 30",
+		"price": "$$$$",
+		"distance": 24.2,
+		"rating": 1.4,
+		"images": [
+			"image_20",
+			"image_17",
+			"image_7",
+			"image_15"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	},
+	{
+		"name": "Hidden Hut",
+		"address": "Jl. Syukur Ombak No. 26",
+		"price": "$$$$",
+		"distance": 24.2,
+		"rating": 0.8,
+		"images": [
+			"image_7",
+			"image_6",
+			"image_15",
+			"image_20"
+		],
+		"maps_address": "maps://?saddr=&daddr=-8.735014,115.167196"
+	}
+]
